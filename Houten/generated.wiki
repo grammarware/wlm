@@ -1,0 +1,589 @@
+De gemeente [[Houten]] telt 182 [[gemeentelijk monument|gemeentelijke monumenten]]. Zie ook de [[Lijst van rijksmonumenten in Houten (gemeente)]].
+
+{{Tabelkop gemeentelijke monumenten|prov-iso=nl-ge|gemeente=[[Houten]]|plaats_kop=Plaats}}
+{{Tabelrij gemeentelijk monument
+| object = Burgemeester Wallerweg
+| bouwjaar = 
+| architect = 
+| adres = [[Burgemeester Wallerweg]] 7
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_1
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Factory icon.svg|12px]] Wagenmakerij
+| image = Burgemeester Wallerweg-7 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = De Poort
+| bouwjaar = 
+| architect = 
+| adres = [[De Poort (Houten)|De Poort]] 36
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_2
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]]Woonhuis
+| image = De-Poort-36 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = De Poort
+| bouwjaar = 
+| architect = 
+| adres = [[De Poort (Houten)|De Poort]] 40
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_3
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]]Koetshuis van de Grund
+| image = De-Poort-38 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = De Grund
+| bouwjaar = [[1877]]
+| architect = 
+| adres = [[De Poort (Houten)|De Poort]] 42
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_4
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis - Gemeentehuis
+| image = De-Poort-40 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Herenweg
+| bouwjaar = 
+| architect = 
+| adres = [[Herenweg (Houten)|Herenweg]] 12
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_5
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Herenweg-12 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Herenweg
+| bouwjaar = [[1882]]
+| architect = 
+| adres = [[Herenweg (Houten)|Herenweg]] 21
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_6
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Herenweg-21 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 15
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_7
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-15 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = [[1928]]
+| architect = 
+| adres = [[Houtensewetering]] 19
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_8
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-19 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 23
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_9
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-23 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 25
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_10
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-25 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Willems Hoeve
+| bouwjaar = [[1900]]
+| architect = 
+| adres = [[Houtensewetering]] 29
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_11
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-29 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 35
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_12
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-35 Houten Nederland.jpg
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 37
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_13
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-37 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 39
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_14
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-39 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Zelden Rust
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 41
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_15
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-41 Zelden-Rust-Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Houtensewetering
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 43
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_16
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-43 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Arbeid Adelt
+| bouwjaar = 
+| architect = 
+| adres = [[Houtensewetering]] 45
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_17
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Houtensewetering-45-Arbeid-Adelt Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Koningin Julianastraat
+| bouwjaar = 
+| architect = 
+| adres = [[Koningin Julianastraat (Houten)|Koningin Julianastraat]] 2
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_18
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Koningin-Julianastraat Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Loerikseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Loerikseweg]] 19 en 21
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_19
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuizen
+| image = Loerikseweg-19-21 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Loerikseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Loerikseweg]] 23
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_20
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Loerikseweg-23 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Lupine-oord
+| bouwjaar = 
+| architect = 
+| adres = [[Lupine-oord]] 52
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_21
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Lupine-oord-52 Houten Nederland-01.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Oud Wulfseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Oud Wulfseweg]] 4
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_22
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Japanese Map symbol (Hospital).svg|12px]] Rusthuis
+| image = Oud-Wulfseweg-4 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Oud Wulfseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Oud Wulfseweg]] 19
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_23
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Oud-Wulfseweg-19 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Oud Wulfseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Oud Wulfseweg]] 20
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_24
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Oud- Wulfseweg-20 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Oud Wulfseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Oud Wulfseweg]] 22
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_25
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Oud- Wulfseweg-22 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Plein
+| bouwjaar = 
+| architect = 
+| adres = [[Plein (Houten)|Plein]] 3
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_26
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Plein-3 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Plein
+| bouwjaar = 
+| architect = 
+| adres = [[Plein (Houten)|Plein]] 9
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_27
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Education - Grad Hat.svg|12px]] Gereformeerde school
+| image = Kruitvat Plein-9 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Prins Bernhardweg
+| bouwjaar = 
+| architect = 
+| adres = [[Prins Bernhardweg (Houten)|Prins Bernhardweg]] 9
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_28
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuizen
+| image = Prins-Bernhardweg-9 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Prins Bernhardweg
+| bouwjaar = 
+| architect = 
+| adres = [[Prins Bernhardweg (Houten)|Prins Bernhardweg]] 11-13-15 en 17
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_29
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuizen
+| image = Prins-Bernhardweg Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Smalspoor (vroeger de [[Beusichemseweg]])
+| bouwjaar = 
+| architect = 
+| adres = [[Staatsspoor (Houten)|Smalspoor]] 5
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_30
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Smalspoor-5 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = [[Het Oude Station (Houten)|Oude Station]]
+| bouwjaar = [[1868]]
+| architect = [[Gerrit van Diesen]]
+| adres = [[Stationserf]] 95-97 en 99
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_31
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Sinnbild LKW.svg|12px]] Transport
+| image = Oude-Station Houten.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Vlierweg
+| bouwjaar = 
+| architect = 
+| adres = [[Vlierweg]] 3
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_32
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Vlierweg-3 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Vlierweg
+| bouwjaar = 
+| architect = 
+| adres = [[Vlierweg]] 4
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_33
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Vlierweg-4 Houten Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Vlierweg (Eben Haezer)
+| bouwjaar = 
+| architect = 
+| adres = [[Vlierweg]] 91
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_34
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Vlierweg-91_Eben-Haezer_Houten_Nederland-01.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Wickenburghseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Wickenburghseweg]] 23
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_35
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Hooiberg.svg|12px]] Boerderij
+| image = Wickenburghseweg-23_'t-Goy_Nederland.JPG
+}}
+{{Tabelrij gemeentelijk monument
+| object = Wickenburghseweg
+| bouwjaar = 
+| architect = 
+| adres = [[Wickenburghseweg]] 35
+| postcode = 
+| plaats = [[Houten]]
+| lat = 
+| lon = 
+| gemcode = 0321
+| objnr = wikinr_36
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = [[Bestand:Gfi-set01-hostel.svg|12px]] Woonhuis
+| image = Wickenburghseweg-35_'t-Goy_Nederland.JPG
+}}
+|}
+
+{{Appendix|2=
+* [https://www.houten.nl/over-gemeente-houten/monumenten-archeologie-en-kunst/monumenten/ Gemeente Houten - ''Monumenten'']
+}}
+{{commonscat|gemeentelijke monumenten in Houten}}
+
+[[Categorie:Gemeentelijk monument in Houten| ]]
+[[Categorie:Lijsten van gemeentelijke monumenten|Houten]]
+
