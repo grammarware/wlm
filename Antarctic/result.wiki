@@ -1,0 +1,1802 @@
+{{Antarctic Protected Area header}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 1
+| name = Admiralty Bay, King George Island
+| description = Admiralty Bay is an area of outstanding environmental, historical, scientific, and aesthetic values. It was first visited by sealers and whalers in the 19th and early 20th centuries, and relics from these periods still remain.
+| proponent = Brazil, Ecuador, Peru, Poland, United States
+| management = 
+| adopted = M  2 (2006) 
+| lat = -62.0225
+| lon = -58.2513888889
+| area = 409.54 km²
+| M_plan = A - Antarctic Peninsula northern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}3&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 1
+| name = South Pole Flag Mast
+| description = Flag mast erected in December 1965 at the South Geographical Pole by the First Argentine Overland Polar Expedition.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -90.0
+| lon = 0.0
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}82&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 2
+| name = Fukushima's Rock Cairn
+| description = Rock cairn and plaques at Syowa Station in memory of Shin Fukushima, a member of the 4th Japanese Antarctic Research Expedition, who died in October 1960 while performing official duties. The cairn was erected on 11 January 1961, by his colleagues. Some of his ashes repose in the cairn.
+| proponent = Japan
+| management = Japan
+| adopted = Rec VII-9
+| lat = -69.0
+| lon = 39.5833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}83&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 2
+| name = Mcmurdo Dry Valleys, Southern Victoria Land
+| description = The region incorporated by this ASMA is characterised as the largest relatively ice-free area in Antarctica, with approximately thirty percent of the ground surface largely free from snow and ice. It is an area of important scientific and wilderness values, with accumulated ice containing important records of past climate change, whilst the current climate serves as an important analogue for the conditions of ancient Earth and contemporary Mars. The Area contains unusual microhabitats and biological communities as well as special geological features and minerals. The Dry Valleys represent a nearly pristine environment largely undisturbed and uncontaminated by humans. The dramatic landscape, composed of high ridges and sweeping valleys and contrasts of ice-free and glacier-covered terrain, creates unique vistas with high aesthetic value. Activities conducted in the area include a variety of scientific research, operations in support of science, media, arts and education. The site's visitors include official national programme visitors as well as tourists. A Long Term Ecological Research site has also been established in the Taylor Valley.
+| proponent = New Zealand, United States
+| management = 
+| adopted = M  1 (2004) 
+| lat = -77.0
+| lon = 162.0
+| area = 17945.42 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}75&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 3
+| name = Cape Denison, Commonwealth Bay, George V Land, East Antarctica
+| description = Cape Denison is located in the centre of Commonwealth Bay, a 60 km-wide stretch of coast in George V Land. The Area is one of the principal sites of early human activity in Antarctica, and has considerable historical, cultural and scientific significance. It is the location of the base of the Australasian Antarctic Expedition of 1911-14 organised and led by Dr (later Sir) Douglas Mawson. An important symbol of the heroic age of Antarctic exploration, it is one of only six hut sites remaining from this period. Cape Denison hosted some of the earliest comprehensive studies of Antarctic geology, geography, terrestrial magnetism, astronomy, meteorology, glaciology, oceanography, biology, zoology and botany. It was also the base of numerous explorations inland and features artefacts associated with these sledging parties, including food caches and equipment. Cape Denison is not only the windiest place in Antarctica, but also the windiest place on Earth at sea level. The site thus provides the physical and symbolic context of the extreme isolation and harsh conditions endured by the expedition members and, by association, all other heroic age researchers and explorers.
+| proponent = Australia
+| management = 
+| adopted = M  1 (2004) 
+| lat = -67.0086111111
+| lon = 142.678611111
+| area = 1.11 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}76&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 3
+| name = Mawson's Rock Cairn - Proclamation Island
+| description = Rock cairn and plaque on Proclamation Island, Enderby Land, erected in January 1930 by Sir Douglas Mawson. The cairn and plaque commemorate the landing on Proclamation Island of Sir Douglas Mawson with a party from the British, Australian and New Zealand Antarctic Research Expedition of 1929-31.
+| proponent = Australia
+| management = Australia
+| adopted = Rec VII-9
+| lat = -65.85
+| lon = 53.6833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}84&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 4
+| name = Lenin's Bust
+| description = Station building to which a bust of V.I. Lenin is fixed, together with a plaque in memory of the conquest of the Pole of Inaccessibility by Soviet Antarctic explorers in 1958.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -83.1
+| lon = 54.9666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}85&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 4
+| name = Deception Island
+| description = Deception Island, South Shetland Islands, has one of only two volcanoes in the Antarctic at which eruptions have been observed. Deception Island is a unique Antarctic island with important natural, scientific, historic, educational, aesthetic and wilderness values. It contains a restless caldera that is actively deforming and it is therefore likely that Deception Island will witness further eruptions in the future. The Area has an exceptionally important flora, including at least 18 species which have not been recorded elsewhere in the Antarctic. Of particular importance are the very small, unique biological communities associated with the island’s geothermal area. The island also has eight species of breeding seabirds including the world's largest colony of chinstrap penguins. The benthic habitat of Port Foster is of ecological interest due to the natural perturbations caused by volcanic activity.
+| proponent = Argentina, Chile, Norway, Spain, United Kingdom, United States
+| management = 
+| adopted = M  3 (2005) 
+| lat = -62.95
+| lon = -60.6333333333
+| area = 158.56 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}77&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 5
+| name = Amundsen-Scott South Pole Station, South Pole
+| description = The ASMA comprises an area of approximately 26.400 km 2 of the polar plateau, encompassing the Amundsen-Scott South Pole Station at 90 º S as well as long-term research and monitoring sites. The area is located in a region of high scientific value due to many factors including its exceptionally clean air, isolation from sound, vibration, and electro-magnetic interference (EMI), geophysically stable location, unique ice conditions and the isolated population of Station inhabitants. The Area also has significant historical value, containing the Ceremonial Pole and Amundsen’s Tent. Activities conducted in the area include diverse scientific research endeavours with extensive international collaboration, operations in support of science, medicine, media, arts, education and tourism.
+| proponent = United States
+| management = 
+| adopted = M  2 (2007) 
+| lat = -90.0
+| lon = 0.0
+| area = 26286.03 km²
+| M_plan = Q - East Antarctic high interior ice sheet
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}78&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 5
+| name = Mawson's Rock Cairn - Cape Bruce
+| description = Rock cairn and plaque at Cape Bruce, Mac. Robertson Land, erected in February 1931 by Sir Douglas Mawson. The cairn and plaque commemorate the landing on Cape Bruce of Sir Douglas Mawson with a party from the British, Australian and New Zealand Antarctic Research Expedition of 1929-31.
+| proponent = Australia
+| management = Australia
+| adopted = Rec VII-9
+| lat = -67.4166666667
+| lon = 60.7833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}86&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 6
+| name = Wilkins's Rock Cairn
+| description = Rock cairn at Walkabout Rocks, Vestfold Hills, Princess Elizabeth Land, erected in 1939 by Sir Hubert Wilkins. The cairn houses a canister containing a record of his visit.
+| proponent = Australia
+| management = Australia
+| adopted = Rec VII-9
+| lat = -68.3666666667
+| lon = 78.55
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}87&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 6
+| name = Larsemann Hills, East Antarctica
+| description = The Area is an ice-free area of 40 km² which comprises also the near-shore islands, collectively known as the Larsemann Hills, and the adjacent plateau. The ice-free area consists of two major peninsulas (Stornes and Broknes), four minor peninsulas, and approximately 130 near shore islands. Substantial station-based research is undertaken on the site and tourists have visited the area on day trips. An increase in tourism Antarctica-wide has the potential over time to promote continued tourist visits to the Larsemann Hills, and the proposed establishment of a compacted snow airstrip near the site of the previous skiway may facilitate increased numbers of visits and visits of greater duration, including the potential for land-based (overnight) tourism. The initial period of intensive human activity between 1986 and 1989 and the subsequent conduct of science and support operations in the area have resulted in notable localised alteration of the environment, concentrated on eastern Broknes. The construction of station buildings, associated facilities and access routes on eastern Broknes has caused physical degradation of the ice-free surface. There is evidence of breakdown of rocks and exposure of the permafrost layer through repeated vehicle use which has caused surface erosion and altered drainage patterns. Chemical contamination of some lakes and soils has occurred through the accidental spillage of hydrocarbons and the disposal of wastewater on the ground surface. Several introduced floral species have also been detected.
+| proponent = Australia, China, India, Romania, Russian Federation
+| management = 
+| adopted = M  2 (2007) 
+| lat = -69.5
+| lon = 76.3327777778
+| area = 252.54 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}79&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASMA
+| number = 7
+| name = Southwest Anvers Island and Palmer Basin
+| description = The region includes south-west Anvers Island and the Palmer Basin and its fringing island groups. This is an area of considerable and increasing scientific, tourist and logistic activities. In particular, scientific research being undertaken within the Area is important for considering ecosystem interactions and long-term environmental changes in the region, and how these relate to Antarctica and the global environment more generally. This research is important to the work of the Committee for Environmental Protection, the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) and the Antarctic Treaty System as a whole. There is a risk that these globally important research programs and long-term datasets could be compromised if activities were to occur in the marine area that were not appropriately managed to avoid potential conflicts and possible interference.
+| proponent = United States
+| management = 
+| adopted = M  1 (2008) 
+| lat = -64.8333333333
+| lon = -64.5
+| area = 3548.53 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}3&id{{=}}81&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 7
+| name = Kharma's Stone
+| description = Stone with inscribed plaque, erected at Mirny Observatory, Mabus Point, in memory of driver-mechanic Ivan Kharma who perished on fast ice in the performance of official duties in 1956.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -66.55
+| lon = 93.0166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}88&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 8
+| name = Shcheglov's Monument
+| description = Metal monument-sledge at Mirny Observatory, Mabus Point, with plaque in memory of driver-mechanic Anatoly Shcheglov who perished in the performance of official duties.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -66.55
+| lon = 93.0166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}89&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 9
+| name = Soviet  Expedition Cemetery
+| description = Cemetery on Buromskiy Island, near Mirny Observatory, in which are buried Soviet, Czechoslovakian and GDR citizens, members of Soviet Antarctic Expeditions, who perished in the performance of official duties on 3 August, 1960.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -66.5333333333
+| lon = 93.0166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}90&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 10
+| name = Oasis Station Observatory
+| description = Building (magnetic observatory) at Dobrowolsky Station, Bunger Hills, with plaque in memory of the opening of Oasis Station in 1956.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -66.2666666667
+| lon = 100.75
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}91&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 11
+| name = Vostok Station Tractor
+| description = Heavy tractor at Vostok Station with plaque in memory of the opening of the Station in 1957.
+| proponent = Russian Federation
+| management = Russian Federation
+| adopted = Rec VII-9
+| lat = -78.4666666667
+| lon = 106.8
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}92&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 14
+| name = Inexpressible Island Ice Cave
+| description = Site of ice cave at Inexpressible Island, Terra Nova Bay, constructed in March 1912 by Victor Campbell's Northern Party, British Antarctic Expedition, 1910-13. The party spent the winter of 1912 in this ice cave. A wooden sign, plaque and seal bones remain at the site.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -74.9
+| lon = 163.716666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}93&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 15
+| name = Shackleton's Hut
+| description = Hut at Cape Royds, Ross Island, built in February 1908 by the British Antarctic Expedition of 1907-09, led by Sir Ernest Shackleton. Restored in January 1961 by the Antarctic Division of New Zealand Department of Scientific and Industrial Research. Site incorporated within ASPA 157
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.55
+| lon = 166.166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}94&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 16
+| name = Terra Nova Hut
+| description = Hut at Cape Evans, Ross Island, built in January 1911 by the British Antarctic Expedition of 1910-1913, led by Captain Robert F. Scott. Restored in January 1961 by the Antarctic Division of New Zealand Department of Scientific and Industrial Research. Site incorporated within ASPA 155
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.6333333333
+| lon = 166.4
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}95&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 17
+| name = Cross on Wind Vane Hill
+| description = Cross on Wind Vane Hill, Cape Evans, Ross Island, erected by the Ross Sea Party, led by Captain Aeneas Mackintosh, of Sir Ernest Shackleton’s Imperial Trans-Antarctic Expedition of 1914-1916, in memory of three members of the party who died in the vicinity in 1916.  Site incorporated within ASPA 155
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.6333333333
+| lon = 166.4
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}96&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 18
+| name = Scott's Discovery Hut
+| description = Hut at Hut Point, Ross Island, built in February 1902 by the British Antarctic Expedition of 1901-04, led by Captain Robert F. Scott. Partially restored in January 1964 by the New Zealand Antarctic Society, with assistance from the United States Government. Site incorporated within ASPA 158
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.8333333333
+| lon = 166.616666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}97&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 19
+| name = George Vince's Cross
+| description = Cross at Hut Point, Ross Island, erected in February 1904 by the British Antarctic Expedition of 1901-04, in memory of George Vince, a member of the expedition, who died in the vicinity.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.8333333333
+| lon = 166.616666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}98&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 20
+| name = Observation Hill Cross
+| description = Cross on Observation Hill, Ross Island, erected in January 1913 by the British Antarctic Expedition of 1910-13, in memory of Captain Robert F. Scott's party which perished on the return journey from the South Pole in March 1912.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.85
+| lon = 166.683333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}99&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 21
+| name = Wilson’s Stone Igloo
+| description = Remains of stone hut at Cape Crozier, Ross Island, constructed in July 1911 by Edward Wilson's party of the British Antarctic Expedition (1910-13) during the winter journey to collect Emperor penguin eggs.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -77.5166666667
+| lon = 169.366666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}100&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 22
+| name = Borchgrevink's huts
+| description = Three huts and associated historic relics at Cape Adare. Two were built in February 1899 during the British Antarctic (Southern Cross) Expedition, 1898-1900, led by Carsten E. Borchgrevink. The third was built in February 1911 by Robert F. Scott's Northern Party, led by Victor L.A.Campbell. Scott’s Northern Party hut has largely collapsed with only the porch standing in 2002. Site incorporated within ASPA 159.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec VII-9
+| lat = -71.3
+| lon = 170.2
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}101&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 23
+| name = Hanson's Grave
+| description = Grave at Cape Adare of Norwegian biologist Nicolai Hanson, a member of the British Antarctic (Southern Cross) Expedition, 1898-1900, led by Carsten E. Borchgrevink. A large boulder marks the head of the grave with the grave itself outlined in white quartz stones. A cross and plaque are attached to the boulder.
+| proponent = New Zealand
+| management = New Zealand, Norway
+| adopted = Rec VII-9
+| lat = -71.2833333333
+| lon = 170.216666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}102&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 24
+| name = Amundsen’s cairn
+| description = Rock cairn, known as ‘Amundsen’s cairn’, on Mount Betty, Queen Maud Range erected by Roald Amundsen on 6 January 1912, on his way back to Framheim from the South Pole.
+| proponent = Norway
+| management = Norway
+| adopted = Rec VII-9
+| lat = -85.1833333333
+| lon = -163.75
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}103&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 26
+| name = San Martin abandoned Station
+| description = Abandoned installations of Argentine Station ‘General San Martin’ on Barry Island, Debenham Islands, Marguerite Bay, with cross, flag mast, and monolith built in 1951.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -68.1333333333
+| lon = -67.1333333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}104&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 27
+| name = Charcot's cairn 1909
+| description = Cairn with a replica of a lead plaque erected on Megalestris Hill, Petermann Island, in 1909 by the second French expedition led by Jean-Baptiste E. A. Charcot. The original plaque is in the reserves of the Museum National d’Histoire Naturelle (Paris).
+| proponent = Argentina
+| management = France, United Kingdom
+| adopted = Rec VII-9
+| lat = -65.1666666667
+| lon = -64.15
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}105&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 28
+| name = Charcot's cairn 1904
+| description = Rock cairn at Port Charcot, Booth Island, with wooden pillar and plaque inscribed with the names of the first French expedition led by Jean-Baptiste E. A. Charcot which wintered here in 1904 aboard Le Français.
+| proponent = Australia
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -65.05
+| lon = -64.0166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}106&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 29
+| name = Lighthouse ‘Primero de Mayo’
+| description = Lighthouse named ‘Primero de Mayo’ erected on Lambda Island, Melchior Islands, by Argentina in 1942. This was the first Argentine lighthouse in the Antarctic.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -64.3
+| lon = -62.9833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}107&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 30
+| name = Shelter ‘Gabriel Gonzalez Videla’
+| description = Shelter at Paradise Harbour erected in 1950 near the Chilean Base ‘Gabriel Gonzalez Videla’ to honour Gabriel Gonzalez Videla, the first Head of State to visit the Antarctic. The shelter is a representative example of pre-IGY activity and constitutes an important national commemoration.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -64.8166666667
+| lon = -62.85
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}108&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 32
+| name = Prat Base Monolith
+| description = Concrete monolith erected in 1947, near Capitán Arturo Prat Base on Greenwich Island, South Shetland Islands. Point of reference for Chilean Antarctic hydrographic surveys. The monolith is representative of an important pre-IGY activity and is currently preserved and maintained by personnel from Prat Base.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -62.4666666667
+| lon = -59.6666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}109&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 33
+| name = González Pacheco Shelter
+| description = Shelter and cross with plaque near Capitán Arturo Prat Base (Chile), Greenwich Island, South Shetland Islands. Named in memory of Lieutenant-Commander González Pacheco, who died in 1960 while in charge of the station. The monument commemorates events related to a person whose role and the circumstances of his death have a symbolic value and the potential to educate people about significant human activities in Antarctica.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -62.4833333333
+| lon = -59.6666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}110&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 34
+| name = Arturo Prat's Bust
+| description = Bust at Capitán Arturo Prat Base (Chile), Greenwich Island, South Shetland Islands, of the Chilean naval hero Arturo Prat, erected in 1947. The monument is representative of pre-IGY activities and has symbolic value in the context of Chilean presence in Antarctica.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -62.8333333333
+| lon = -59.6833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}111&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 35
+| name = Virgin of Carmen Statue
+| description = Wooden cross and statue of the Virgin of Carmen erected in 1947 near Capitán Arturo Prat Base (Chile), Greenwich Island, South Shetland Islands. The monument is representative of pre-IGY activities and has a particularly symbolic and architectural value.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -62.4833333333
+| lon = -59.6666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}112&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 36
+| name = Dallman Expedition Plaque
+| description = Replica of a metal plaque erected by Eduard Dallmann at Potter Cove, King George Island, to commemorate the visit of his German expedition on 1 March, 1874 on board Grönland.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -62.2333333333
+| lon = -58.65
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}113&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 37
+| name = Bernardo O'Higgins Statue
+| description = Statue erected in 1948 at General Bernardo O’Higgins Base (Chile), Trinity Peninsula, of Bernardo O'Higgins, the first ruler of Chile to envisage the importance of Antarctica. This monument is representative of pre-IGY activities in Antarctica and has a symbolic meaning in the history of Antarctic exploration since it was during O’Higgins’ government that the vessel Dragon landed on the coast of the Antarctic Peninsula in 1820.
+| proponent = Chile
+| management = Chile
+| adopted = Rec VII-9
+| lat = -63.3166666667
+| lon = -57.9
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}114&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 38
+| name = Nordenskjöld's Hut
+| description = Wooden hut on Snow Hill Island built in February 1902 by the main party of the Swedish South Polar Expedition led by Otto Nordenskjöld.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -64.3666666667
+| lon = -56.9833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}115&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 39
+| name = Hope Bay Hut
+| description = Stone hut at Hope Bay, Trinity Peninsula, built in January 1903 by a party of the Swedish South Polar Expedition.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -63.4
+| lon = -56.9833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}116&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 40
+| name = General San Martin's Bust
+| description = Bust of General San Martin, grotto with a statue of the Virgin of Lujan, and a flag mast at Base ‘Esperanza’, Hope Bay, erected by Argentina in 1955; together with a graveyard with stele in memory of members of Argentine expeditions who died in the area.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -63.4
+| lon = -56.9833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}117&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 41
+| name = Paulet Island Hut
+| description = Stone hut on Paulet Island built in February 1903 by survivors of the wrecked vessel Antarctic under Captain Carl A. Larsen, members of the Swedish South Polar Expedition led by Otto Nordenskjöld, together with a grave of a member of the expedition and the rock cairn built by the survivors of the wreck at the highest point of the island to draw the attention of rescue expeditions.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -63.5666666667
+| lon = -55.75
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}118&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 42
+| name = Scotia Bay huts
+| description = Area of Scotia Bay, Laurie Island, South Orkney Island, in which are found: stone hut built in 1903 by the Scottish Antarctic Expedition led by William S. Bruce; the Argentine meteorological hut and magnetic observatory, built in 1905 and known as Moneta House; and a graveyard with twelve graves, the earliest of which dates from 1903.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -60.7666666667
+| lon = -44.6666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}119&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 43
+| name = General Belgrano Cross
+| description = Cross erected in 1955, at a distance of 1,300 metres north-east of the Argentine General Belgrano I Station (Argentina) and subsequently moved to Belgrano II Station (Argentina), Nunatak Bertrab, Confin Coast, Coats Land in 1979.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec VII-9
+| lat = -77.8666666667
+| lon = -34.6166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}120&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 44
+| name = Dakshin Gangotri Plaque
+| description = Plaque erected at the temporary Indian station ‘Dakshin Gangotri’, Princess Astrid Kyst, Dronning Maud Land, listing the names of the First Indian Antarctic Expedition which landed nearby on 9 January 1982.
+| proponent = India
+| management = India
+| adopted = Rec XII-7
+| lat = -70.75
+| lon = 11.6333333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}121&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 45
+| name = Gerlache Expedition Plaque
+| description = Plaque on Brabant Island, on Metchnikoff Point, mounted at a height of 70 m on the crest of the moraine separating this point from the glacier and bearing the following inscription:
+| proponent = Belgium
+| management = Belgium
+| adopted = Rec XIII-16
+| lat = -64.0333333333
+| lon = -62.5666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}122&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 46
+| name = Remains of Port-Martin base
+| description = All the buildings and installations of Port-Martin base, Terre Adélie constructed in 1950 by the 3rd French expedition in Terre Adélie and partly destroyed by fire during the night of 23 to 24 January 1952.
+| proponent = France
+| management = France
+| adopted = Rec XIII-16
+| lat = -66.8166666667
+| lon = 141.4
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}123&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 47
+| name = Base Marret
+| description = Wooden building called ‘Base Marret’ on the Ile des Pétrels, Terre Adélie, where seven men under the command of Mario Marret overwintered in 1952 following the fire at Port Martin Base.
+| proponent = France
+| management = France
+| adopted = Rec XIII-16
+| lat = -66.6666666667
+| lon = 140.016666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}124&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 48
+| name = Prudhomme's Cross
+| description = Iron cross on the North-East headland of the Ile des Pétrels, Terre Adélie, dedicated as a memorial to André Prudhomme, head meteorologist in the 3rd International Geophysical Year expedition who disappeared during a blizzard on 7 January 1959.
+| proponent = France
+| management = France
+| adopted = Rec XIII-16
+| lat = -66.6666666667
+| lon = 140.016666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}125&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 49
+| name = Bunger Hill Pillar
+| description = The concrete pillar erected by the First Polish Antarctic Expedition at Dobrolowski Station on the Bunger Hill to measure acceleration due to gravity   g = 982,439.4 mgal ±0.4 mgal in relation to Warsaw, according to the Potsdam system, in January 1959.
+| proponent = Poland
+| management = Poland
+| adopted = Rec XIII-16
+| lat = -66.2666666667
+| lon = 100.75
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}126&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 50
+| name = Polish Eagle Plaque
+| description = A brass plaque bearing the Polish Eagle, the national emblem of Poland, the dates 1975 and 1976, and the following text in Polish, English and Russian:
+| proponent = Poland
+| management = Poland
+| adopted = Rec XIII-16
+| lat = -62.2
+| lon = -59.0166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}127&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 51
+| name = Puchaslki Grave
+| description = The grave of Wlodzimierz Puchalski, surmounted by an iron cross, on a hill to the south of Arctowski station on King George Island. W. Puchalski was an artist and a producer of documentary nature films, who died on 19 January 1979 whilst working at the station.
+| proponent = Poland
+| management = Poland
+| adopted = Rec XIII-16
+| lat = -62.2166666667
+| lon = -58.4666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}4&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 52
+| name = Great Wall Station Monolith
+| description = Monolith erected to commemorate the establishment on 20 February 1985 by the Peoples Republic of China of the ‘Great Wall Station’ on Fildes Peninsula, King George Island, in the South Shetland Islands. Engraved on the monolith is the following inscription in Chinese: ‘Great Wall Station, First Chinese Antarctic Research Expedition, 20 February 1985’.
+| proponent = China
+| management = China
+| adopted = Rec XIII-16
+| lat = -62.2166666667
+| lon = -58.9666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}128&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 53
+| name = Endurance Memorial Site
+| description = Bust of Captain Luis Alberto Pardo, monolith and plaques on Point Wild, Elephant Island, south Shetland Islands, celebrating the rescue of the survivors of the British ship Endurance by the Chilean Navy cutter Yelcho displaying the following words:
+| proponent = Chile
+| management = Chile
+| adopted = Rec XIV-8
+| lat = -61.05
+| lon = -54.8333333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}5&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 54
+| name = Richard Byrd's Bust
+| description = Richard E. Byrd Historic Monument, McMurdo Station, Antarctica. Bronze bust on black marble, 5ft high x 2ft square, on wood platform, bearing inscriptions describing the polar achievements of Richard Evelyn Byrd. Erected at McMurdo Station in 1965.
+| proponent = United States
+| management = United States
+| adopted = Rec XV-12
+| lat = -77.85
+| lon = 166.666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}129&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 55
+| name = East Base
+| description = East Base, Antarctica, Stonington Island. Buildings and artefacts at East Base, Stonington Island and their immediate environs. These structures were erected and used during two U.S. wintering expeditions: the Antarctic Service Expedition (1939-1941) and the Ronne Antarctic Research Expedition (1947-1948). The size of the historic area is approximately 1,000 metres in the north-south direction (from the beach to Northeast Glacier adjacent to Back Bay) and approximately 500 metres in the east-west direction.
+| proponent = United States
+| management = United States
+| adopted = Rec XV-12
+| lat = -68.1833333333
+| lon = -67.0
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}130&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 56
+| name = Waterboat Point Hut
+| description = Waterboat Point, Danco Coast, Antarctic Peninsula. The remains and immediate environs of the Waterboat Point hut. It was occupied by the UK two-man expedition of Thomas W. Bagshawe and Maxime C. Lester in 1921-22. Only the base of the boat, foundations of doorposts and an outline of the hut and extension still exist. It is situated close to the Chilean station ‘President Gabriel Gonzáles Videla’.
+| proponent = Chile, United Kingdom
+| management = Chile, United Kingdom
+| adopted = Rec XVI-11
+| lat = -64.8166666667
+| lon = -62.85
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}131&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 57
+| name = MacFarlane's Plaque
+| description = Commemorative plaque at ‘Yankee Bay’ (Yankee Harbour), MacFarlane Strait, Greenwich Island, South Shetland Islands. Near a Chilean refuge. Erected to the memory of Captain Andrew MacFarlane, who in 1820 explored the Antarctic Peninsula area in the brigantine Dragon.
+| proponent = Chile, United Kingdom
+| management = Chile, United Kingdom
+| adopted = Rec XVI-11
+| lat = -62.5333333333
+| lon = -59.75
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}132&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 59
+| name = San Telmo Cairn
+| description = A cairn on Half Moon Beach, Cape Shirreff, Livingston Island, South Shetland Islands and a plaque on ‘Cerro Gaviota’ opposite San Telmo Islets commemorating the officers, soldiers and seamen aboard the Spanish vessel San Telmo, which sank in September 1819; possibly the first people to live and die in Antarctica. Site incorporated within ASPA 149.
+| proponent = Chile, Peru, Spain
+| management = Chile, Peru, Spain
+| adopted = Rec XVI-11
+| lat = -62.4666666667
+| lon = -60.7666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}133&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 60
+| name = Corvette Uruguay Cairn
+| description = Wooden plaque and cairn located at Penguins Bay, southern coast of Seymour Island (Marambio), James Ross Archipelago. This plaque was placed on 10 November 1903 by the crew of a rescue mission of the Argentinian Corvette Uruguay in the site where they met the members of the Swedish expedition led by Dr Otto Nordenskjöld. The text of the wooden plaque reads as follows: “10.XI.1903 Uruguay (Argentine Navy) in its journey to give assistance to the Swedish Antarctic expedition.” In January 1990, a rock cairn was erected by Argentina in memory of this event in the place where the plaque is located.
+| proponent = Argentina
+| management = Argentina
+| adopted = Rec XVII-3
+| lat = -64.2666666667
+| lon = -56.65
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}134&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 61
+| name = Port Lockroy
+| description = ‘Base A’ at Port Lockroy, Goudier Island, off Wiencke Island, Antarctic Peninsula. Of historic importance as an Operation Tabarin base from 1944 and for scientific research, including the first measurements of the ionosphere, and the first recording of an atmospheric whistler, from Antarctica. Port Lockroy was a key monitoring site during the International Geophysical Year of 1957/58.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M 4 (1995) 
+| lat = -64.8166666667
+| lon = -63.4833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}135&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 62
+| name = Base F Wordie House
+| description = ‘Base F (Wordie House)’ on Winter Island, Argentine Islands. Of historic importance as an example of an early British scientific base.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M 4 (1995) 
+| lat = -65.25
+| lon = -64.2666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}136&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 63
+| name = Base Y
+| description = ‘Base Y’ on Horseshoe Island, Marguerite Bay, western Graham Land. Noteworthy as a relatively unaltered and completely equipped British scientific base of the late 1950s. ‘Blaiklock’, the refuge hut nearby, is considered an integral part of the base.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M 4 (1995) 
+| lat = -67.8
+| lon = -67.3
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}137&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 64
+| name = Base E
+| description = ‘Base E’ on Stonington Island, Marguerite Bay, western Graham Land. Of historical importance in the early period of exploration and later British Antarctic Survey (BAS) history of the 1960s and 1970s.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M 4 (1995) 
+| lat = -68.1833333333
+| lon = -67.0
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}138&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 65
+| name = Antarctic Message Post
+| description = Message post, Svend Foyn Island, Possession Islands. A pole with a box attached was placed on the island on 16 January 1895 during the whaling expedition of Henryk Bull and Captain Leonard Kristensen of the ship Antarctic. It was examined and found intact by the British Antarctic Expedition of 1898-1900 and then sighted from the beach by the USS Edisto in 1956 and USCGS Glacier in 1965.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -71.9333333333
+| lon = -171.083333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}139&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 66
+| name = Prestrud’s Cairn
+| description = Prestrud’s Cairn, Scott Nunataks, Alexandra Mountains, Edward VII Peninsula. The small rock cairn was erected at the foot of the main bluff on the north side of the nunataks by Lieutenant K. Prestrud on 3 December 1911 during the Norwegian Antarctic Expedition of 1910-1912.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -77.1833333333
+| lon = -154.533333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}140&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 67
+| name = Granite House
+| description = Rock shelter, ‘Granite House’, Cape Geology, Granite Harbour. This shelter was constructed in 1911 for use as a field kitchen by Griffith Taylor’s second geological excursion during the British Antarctic Expedition of 1910-1913. It was enclosed on three sides with granite boulder walls and used a sledge to support a seal-skin roof. The stone walls of the shelter have partially collapsed. The shelter contains corroded remnants of tins, a seal skin and some cord. The sledge is now located 50 m seaward of the shelter and consists of a few scattered pieces of wood, straps and buckles. Site incorporated within ASPA 154.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -77.0
+| lon = 162.533333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}141&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 68
+| name = Hells Gate Moraine depot site
+| description = Site of depot at Hells Gate Moraine, Inexpressible Island, Terra Nova Bay.This emergency depot consisted of a sledge loaded with supplies and equipment which was placed on 25 January 1913 by the British Antarctic Expedition, 1910-1913. The sledge and supplies were removed in 1994 in order to stabilize their deteriorating condition.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -74.8666666667
+| lon = 163.833333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}142&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 69
+| name = Discovery's Message Post
+| description = Message post at Cape Crozier, Ross Island, erected on 22 January 1902 by Captain Robert F. Scott's Discovery Expedition of 1901-04. It was to provide information for the expedition’s relief ships, and held a metal message cylinder, which has since been removed. Site incorporated within ASPA 124
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -77.45
+| lon = 169.266666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}143&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 70
+| name = Scott's Message Post
+| description = Message post at Cape Wadworth, Coulman Island. A metal cylinder nailed to a red pole 8 m above sea level placed by Captain Robert F. Scott on 15 January 1902. He painted the rocks behind the post red and white to make it more conspicuous.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 4 (1995) 
+| lat = -73.3166666667
+| lon = 169.783333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}144&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 71
+| name = Whalers Bay
+| description = Whalers Bay, Deception Island, South Shetland Islands. The site comprises all pre-1970 remains on the shore of Whalers Bay, including those from the early whaling period (1906-12) initiated by Captain Adolfus Andresen of the Sociedad Ballenera de Magallanes, Chile; the remains of the Norwegian Hektor Whaling Station established in 1912 and all artefacts associated with its operation until 1931; the site of a cemetery with 35 burials and a memorial to ten men lost at sea; and the remains from the period of British scientific and mapping activity (1944-1969). The site also acknowledges and commemorates the historic value of other events that occurred there, from which nothing remains.
+| proponent = Chile, Norway
+| management = Chile, Norway
+| adopted = M 4 (1995) 
+| lat = -62.9833333333
+| lon = -60.5666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}145&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 72
+| name = Mikkelsen's Cairn
+| description = Mikkelsen Cairn, Tryne Islands, Vestfold Hills. A rock cairn and a wooden mast erected by the landing party led by Captain Klarius Mikkelsen of the Norwegian whaling ship Thorshavn and including Caroline Mikkelsen, Captain Mikkelsen’s wife, the first woman to set foot on East Antarctica. The cairn was discovered by Australian National Antarctic Research Expedition field parties in 1957 and again in 1995.
+| proponent = Australia, Norway
+| management = Australia, Norway
+| adopted = Rec XV-6
+| lat = -68.3666666667
+| lon = 78.4
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}146&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 73
+| name = Mount Erebus Cross
+| description = Memorial Cross for the 1979 Mount Erebus crash victims, Lewis Bay, Ross Island. A cross of stainless steel which was erected in January 1987 on a rocky promontory three kilometers from the Mount Erebus crash site in memory of the 257 people of different nationalities who lost their lives when the aircraft in which they were travelling crashed into the lower slopes of Mount Erebus, Ross Island. The cross was erected as a mark of respect and in remembrance of those who died in the tragedy.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = Rec XI-3
+| lat = -77.4166666667
+| lon = 167.45
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}147&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 74
+| name = Un-Named Cove
+| description = The un-named cove on the south-west coast of Elephant Island, including the foreshore and the intertidal area, in which the wreckage of a large wooden sailing vessel is located.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M 2 (1998) 
+| lat = -61.2333333333
+| lon = -55.3666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}148&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 75
+| name = Hut A, Scott Base
+| description = The A Hut of Scott Base, being the only existing Trans Antarctic Expedition 1956/1957 building in Antarctica sited at Pram Point, Ross Island, Ross Sea Region, Antarctica.
+| proponent = New Zealand
+| management = New Zealand
+| adopted = M 1 (2001) 
+| lat = -77.85
+| lon = 166.766666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}149&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 76
+| name = Aguirre Cerda Station ruins
+| description = The ruins of the Base Pedro Aguirre Cerda Station, being a Chilean meteorological and volcanological center situated at Pendulum Cove, Deception Island, Antarctica, that was destroyed by volcanic eruptions in 1967 and 1969.
+| proponent = Chile
+| management = Chile
+| adopted = M 2 (2001) 
+| lat = -62.9833333333
+| lon = -60.6666666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}150&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 77
+| name = Cape Denison
+| description = Cape Denison, Commonwealth Bay, George V Land, including Boat Harbour and the historic artefacts contained within its waters. This Site is contained within ASMA No. 3, designated by Measure 1 (2004). Part of this site is also contained within ASPA No. 162, designated by Measure 2 (2004).
+| proponent = Australia
+| management = Australia
+| adopted = M 3 (2004) 
+| lat = -67.0083333333
+| lon = 142.661111111
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}151&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 78
+| name = Ninth Indian Expedition Plaque
+| description = Memorial plaque at India Point, Humboldt Mountains, Wohlthat Massif, central Dronning Maud Land erected in memory of three scientists of the Geological Survey of India (GSI) and a communication technician from the Indian Navy - all members of the ninth Indian Expedition to Antarctica, who sacrificed their lives in this mountain camp in an accident on 8th January 1990.
+| proponent = India
+| management = India
+| adopted = M 3 (2004) 
+| lat = -71.7522222222
+| lon = 11.2083333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}152&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 79
+| name = Lillie Marleen Hut
+| description = Lillie Marleen Hut, Mt. Dockery, Everett Range, Northern Victoria Land. The hut was erected to support the work of the German Antarctic Northern Victoria Land Expedition (GANOVEX I) of 1979/1980.  The hut, a bivouac container made of prefabricated fiberglass units insulated with polyurethane foam, was named after the Lillie Glacier and the song "Lillie Marleen".  The hut is closely associated with the dramatic sinking of the expedition ship "Gotland II" during GANOVEX II in December 1981.
+| proponent = Germany
+| management = Germany
+| adopted = M 5 (2005) 
+| lat = -71.2
+| lon = 164.516666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}153&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 80
+| name = Amundsen's Tent.
+| description = Amundsen's Tent. The tent was erected at 90° by the Norwegian group of explorers led by Roald Amundsen on their arrival at the South Pole on 14 December 1911.  The tent is currently buried underneath the snow and ice in the vicinity of the South Pole.
+| proponent = Norway
+| management = Norway
+| adopted = M 5 (2005) 
+| lat = -90.0
+| lon = 0.0
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}154&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 81
+| name = Landing Rock
+| description = Rocher du Débarquement (Landing Rock), being a small island where Admiral Dumont D’Urville and his crew landed on 21 January 1840 when he discovered Terre Adélie.
+| proponent = France
+| management = France
+| adopted = M 3 (2006) 
+| lat = -66.6083333333
+| lon = 140.073611111
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}155&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 82
+| name = Antarctic Treaty Monument
+| description = This Monument is located near the Frei, Bellingshausen and Escudero bases, Fildes Peninsula, King George Island. The plaque at the foot of the monument commemorates the signatories of the Antarctic Treaty. This Monument has 4 plaques in the official languages of the Antarctic Treaty. The plaques were installed in February 2011 and read as follows: “This historic monument, dedicated to the memory of the signatories of the Antarctic Treaty, Washington D.C., 1959, is also a reminder of the legacy of the First and Second International Polar Years (1882-1883 and 1932-1933) and of the International Geophysical Year (1957-1958) that preceded the Antarctic Treaty, and recalls the heritage of International Cooperation that led to the International Polar Year 2007-2008.” This monument was designed and built by the American Joseph W. Pearson, who offered it to Chile. It was unveiled in 1999, on the occasion of the 40th anniversary of the signature of the Antarctic Treaty.
+| proponent = Chile
+| management = Chile
+| adopted = M  3 (2007) ,&nbsp;&nbsp;
+| lat = -62.2002777778
+| lon = -58.9613888889
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}156&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 83
+| name = Base “W”, Detaille Island, Lallemand Fjord, Loubet Coast
+| description = Base “W” is situated on a narrow isthmus at the northern end of Detaille Island, Lallemand Fjord, Loubet Coast. The site consists of a hut and a range of associated structures and outbuildings including a small emergency storage building, bitch and pup pens, anemometer tower and two standard tubular steel radio masts (one to the south west of the main hut and the other to the east). Base “W” was established in 1956 as a British science base primarily for survey, geology and meteorology and to contribute to the IGY in 1957. As a relatively unaltered base from the late 1950s, Base “W” provides an important reminder of the science and living conditions that existed when the Antarctic Treaty was signed 50 years ago.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M  14 (2009) 
+| lat = -66.8666666667
+| lon = -66.8
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}158&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 84
+| name = Hut at Damoy Point, Dorian Bay, Wiencke Island, Palmer Archipelago
+| description = The site consists of a well-preserved hut and the scientific equipment and other artefacts inside it. It is located at Damoy Point on Dorian Bay, Wiencke Island, Palmer Archipelago. The hut was erected in 1973 and used for a number of years as a British summer air facility and transit station for scientific personnel. It was last occupied in 1993.
+| proponent = United Kingdom
+| management = United Kingdom
+| adopted = M  14 (2009) 
+| lat = -64.8166666667
+| lon = -63.5166666667
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}159&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = HSM
+| number = 85
+| name = Plaque Commemorating the PM-3A Nuclear Power Plant at McMurdo Station
+| description = The plaque is approximately 18 x 24 inches, made of bronze and secured to a large vertical rock at McMurdo Station, the former site of the PM-3A nuclear power reactor. It is approximately half way up the west side of Observation Hill. The plaque text details achievements of PM-3A, Antarctica’s first nuclear power plant.
+| proponent = United States
+| management = United States
+| adopted = M  15 (2010) 
+| lat = -77.85
+| lon = 166.683333333
+| area = 
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}1&id{{=}}160&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 101
+| name = Taylor Rookery, Mac. Robertson Land
+| description = The Area consists of the whole of the northernmost rock exposure on the east side of Taylor Glacier, Mac. Robertson Land. It contains a colony of Emperor Penguins which is the largest of two known colonies of this species located entirely on land. The rookery is important because of long-term monitoring of the population of the penguins (since 1954).
+| proponent = Australia
+| management = 
+| adopted = Rec IV-1
+| lat = -67.4333333333
+| lon = 60.8333333333
+| area = 0.26 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}6&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 102
+| name = Rookery Islands, Holme Bay, Mac. Robertson Land
+| description = The Rookery Islands are a group of small islands and rocks in the western part of Holme Bay, lying to the north of the Masson and David Ranges in Mac. Robertson Land, and about 10 km to the west of the Australian station Mawson. The Area is a representative offshore island habitat with an unusual association of the breeding colonies of all six bird species resident in the Mawson area; two of which, the southern giant petrel and the Cape petrel occur nowhere else in the region.
+| proponent = Australia
+| management = 
+| adopted = Rec IV-2
+| lat = -67.61
+| lon = 62.535
+| area = 1.67 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}7&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 103
+| name = Ardery Island and Odbert Island, Budd Coast, Wilkes Land
+| description = Ardery island and Odbert island are among the southernmost of the Windmill Islands, lying in the south of Vincennes Bay, off the Budd Coast of Wilkes Land, Eastern Antarctica. The site supports several breeding species of petrel and provides an example of their habitat. There is no other readily accessible place in eastern Antarctica where the four genera of fulmarine petrels breed in the same place in sufficient numbers to allow comparative study. Study of these four genera at one location is of high ecological importance in understanding and monitoring the Southern Ocean ecosystem. In addition both islands have breeding populations of Wilson's storm petrels and Antarctic skuas; and Odbert Island supports breeding populations of Adélie penguins.
+| proponent = Australia
+| management = 
+| adopted = Rec IV-3
+| lat = -66.385
+| lon = 110.497222222
+| area = 2.44 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}8&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 104
+| name = Sabrina Island, Northern Ross Sea, Antarctica
+| description = The Balleny Islands are located around 325km north of the Pennell Coast, Northern Victoria Land.  The ASPA comprises all of Sabrina Island above sea level, including the Monolith, and Chinstrap Islet. The area has outstanding environmental and scientific value. It is a representative sample of the Balleny Islands which is the only oceanic archipelago located within the main Antarctic Coastal Current. As such, they provide important resting and breeding habitat for seabird and seal species, and are significant in circumpolar distributions of a variety of species. Being isolated and prone to difficult weather and ice conditions, the Islands have had very little human disturbance.
+| proponent = New Zealand
+| management = 
+| adopted = Rec IV-4
+| lat = -66.9166666667
+| lon = 163.316666667
+| area = 1.5 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}9&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 105
+| name = Beaufort Island, McMurdo Sound, Ross Sea
+| description = The Area encompasses the whole of Beaufort Island above the mean high water mark, and includes the adjacent fast-ice occupied by breeding Emperor penguins. The island contains substantial avifauna and it is one of the most important breeding areas in the region. It possesses a significant area of vegetation on an ice-cored moraine bench which is exceptional both in its quantity and quality, and is the most extensive, continuous area of mosses yet known for the McMurdo Sound region. It also represents one of the most southerly locations where red snow algae have been observed.
+| proponent = New Zealand
+| management = 
+| adopted = Rec IV-5
+| lat = -76.9833333333
+| lon = 167.0
+| area = 14.16 km²
+| M_plan = O - West Antarctic Ice Sheet (also includes inland Coats Land, Taylor Dome, Ross Island ice cap)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}10&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 106
+| name = Cape Hallett, Northern Victoria Land, Ross Sea
+| description = Cape Hallett is located at the southern end of Moubray Bay, Northern Victoria Land, in the western Ross Sea. The Area contains a variety of habitats with plant communities that are the most extensive and representative examples known at the northern end of the latitudinal gradient of Victoria Land and the Ross Sea. South Polar skuas and a large Adélie penguin colony also nest on the site.  The history of human impact on the colony make this site unique and ideal for scientific study of impacts on, and recovery of, the colony following substantial ecosystem disturbance. The Area also possesses outstanding aesthetic values with its combination of prolific biological resources. The history of human activity at the former station is also of interest to visitors.
+| proponent = United States
+| management = 
+| adopted = Rec IV-7
+| lat = -72.3166666667
+| lon = 170.266666667
+| area = 0.53 km²
+| M_plan = U - North Victoria Land geologic (also includes Executive Committee Range, Prince Charles & Jones mountains) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}11&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 107
+| name = Emperor Island, Dion Islands, Marguerite Bay, Antarctic Peninsula
+| description = The Dion Islands, a small archipelago comprising several islands, rocks and reefs, are situated 13.5km south of the south-western extremity of Adelaide Island in Marguerite Bay. The site contains the only colony of emperor penguins known to exist on the west side of the Antarctic Peninsula, and the isolation of this colony from others of the same species makes it of outstanding scientific interest. It is also the most northerly and probably the smallest emperor penguin colony, and one of only two in which breeding occurs on land. Adélie penguins and blue-eyed shags also breed here.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec IV-8
+| lat = -67.8666666667
+| lon = -68.7
+| area = 4.67 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}12&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 108
+| name = Green Island, Berthelot Islands, Antarctic Peninsula
+| description = Green Island is a small island situated 150m north of the largest of the Berthelot Islands group in Grandidier Channel, approximately 3 km off the Graham Coast of the Antarctic Peninsula. The vegetation on the area is exceptionally rich, with well-developed continuous banks of moss turf and small patches of Antarctic hair grass. While the vegetation on Green Island is not as regionally diverse as once thought, in recent years it has largely escaped significant damage to its moss banks that more northerly islands have been subjected to by Antarctic fur seals. A large blue-eyed shag colony, brown skuas, south polar skuas and hybrids are also found. The colony of blue-eyed cormorants is possibly one of the largest along the Antarctic Peninsula.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec IV-9
+| lat = -65.3166666667
+| lon = -64.15
+| area = 0.17 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}13&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 109
+| name = Moe Island, South Orkney Islands
+| description = Moe Island, South Orkney Islands, is a small irregularly shaped island lying 300m off the south-western extremity of Signy Island, from which it is separated by Fyr Channel. It provides a representative example of the maritime Antarctic ecosystem, including large banks of moss turf and colonies of Chinstrap penguins, Cape petrels and Antarctic prions. Weddell seals and fur seals also haul out on the island's beaches. Moe Island is protected as a control area for future comparison with neighbouring Signy Island, which has been subjected to intensive scientific research and major changes in its low altitude terrestrial system due to disruption from fur seals. Additionally, Moe Island contains the greatest continuous expanses of Chorisodontium-Polytrichum moss turf found in Antarctica.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec IV-13
+| lat = -60.7333333333
+| lon = -45.6833333333
+| area = 1.2 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}14&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 110
+| name = Lynch Island, South Orkney Islands
+| description = Lynch Island is a small island situated at the eastern end of Marshall Bay in the South Orkney Islands, about 200m south of Coronation Island and 2.4km north of Signy Island. The Area includes the whole island above the low tide water level, excluding offshore islets and rocks. The island supports one of the most extensive and dense stands of Antarctic hair grass known in the Antarctic Treaty Area; an outstanding example of a rare natural ecological system. Several species of moss are unusually fertile, and the soil contains a rich invertebrate fauna. Most species of Antarctic seals are common around the island. Despite localised damage from Antarctic fur seals, limited human disturbance via visitation, scientific research and sampling, means the Area has potential value as a reference site to measure against comparable ecosystems which are experiencing substantial changes as a result of fur seal activities.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec IV-14
+| lat = -60.6527777778
+| lon = -45.6069444444
+| area = 0.15 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}15&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 111
+| name = Southern Powell Island and adjacent islands, South Orkney Islands
+| description = The Area includes all of Powell Island  south of the latitude of the southern summit of John Peaks (375m altitude), together with the whole of Fredriksen Island, Michelsen Island, Christoffersen Island, Grey Island and unnamed adjacent islands. Southern Powell Island and the adjacent islands support flora and a considerable bird and mammal fauna representative of the natural ecology of the South Orkney Islands, which are rendered more important by the presence of a small, long-established breeding colony of fur seals.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec IV-15
+| lat = -60.7
+| lon = -45.0166666667
+| area = 23.56 km²
+| M_plan = A - Antarctic Peninsula northern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}16&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 112
+| name = Coppermine Peninsula, Robert Island, South Shetland Islands
+| description = Coppermine Peninsula is situated on the west side of Robert Island, which lies between Nelson Island to the east and Greenwich Island to the west, midway along the South Shetland Islands archipelago. It is a biologically diverse area, supporting rich vegetation, together with a variety of terrestrial fauna and a rich avifauna. It has one of the largest continuous moss stands in the Antarctic. Chinstrap penguins, southern giant petrels, Wilson's storm petrels, Antarctic terns, Dominican gulls, elephant seals, Weddell seals and fur seals can also be found.
+| proponent = Chile
+| management = 
+| adopted = Rec VI-10
+| lat = -62.3833333333
+| lon = -59.7
+| area = 0.67 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}17&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 113
+| name = Litchfield Island, Arthur Harbor, Anvers Island, Palmer Archipelago
+| description = Litchfield Island lies within Arthur Harbor, SW Anvers Island. Together with its littoral zone, it possesses an unusually high collection of marine and terrestrial life, is unique amongst the neighboring islands as a breeding place for six species of native birds and provides an outstanding example of the natural ecological system of the Antarctic Peninsula area. In addition, Litchfield Island possesses rich growths of vegetation and has the most varied topography and the greatest diversity of terrestrial habitats of the islands in Arthur Harbor.
+| proponent = United States
+| management = 
+| adopted = Rec VIII-1
+| lat = -64.7666666667
+| lon = -64.1
+| area = 0.36 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}18&lang{{=}}e
+| image = 
+}}
+|}

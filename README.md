@@ -12,5 +12,5 @@ Progress
 * Scherpenzeel (10 November 2012)
 * Wageningen (10 November 2012)
 * Houten (12 November 2012)
-* Antarctic (18 November 2012)
+* Antarctic (18–24 November 2012)
 * …

@@ -20,8 +20,8 @@ def convertCoords(s):
 	while len(cs)<4:
 		cs.append('')
 	cs[-1] = s.strip()[-1]
-	print s,cs
-	r = int(cs[0])+(int(cs[1])+int(cs[2])/60.)/60.
+	# print s,cs
+	r = toInt(cs[0])+(toInt(cs[1])+toInt(cs[2])/60.)/60.
 	if cs[-1] in ('S','W'):
 		return -r
 	else:
@@ -43,16 +43,17 @@ def getDetails(n,typ):
 		typ = 2
 	else:
 		typ = 3
+	uri = 'http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=%i&id=%s&lang=e' % (typ,n)
 	try:
 		g = open('details/%s.html' % n,'r')
 		details = g.readlines()
 	except IOError as e:
-		print '!!!! Fetching','http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=%i&id=%s&lang=e' % (typ,n)
+		print '!!!! Fetching',uri
 		g = open('details/%s.html' % n,'w')
-		details = safelyLoadURL('http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=%i&id=%s&lang=e' % (typ,n))
+		details = safelyLoadURL(uri)
 		g.write(details)
 	g.close()
-	return details
+	return uri,details
 
 def safelyLoadURL(url):
 	errors = 0
@@ -77,7 +78,7 @@ def extractOne(xs):
 		# print extra[0].split('&id=')
 		j = extra[0].split('id=')[1].split('&')[0]
 		# print tds,'is',j
-		details = getDetails(j,tds[0])
+		uri,details = getDetails(j,tds[0])
 		more = \
 			[
 				getProp(details,'lblProponent'),
@@ -98,7 +99,7 @@ def extractOne(xs):
 	else:
 		j = 0
 	# print tds,j
-	return [[tds[0],tds[1],tds[2]]+more]
+	return [[tds[0],tds[1],tds[2]]+more+[uri]]
 	# sys.exit(1)
 	
 if __name__ == "__main__":
@@ -119,7 +120,7 @@ if __name__ == "__main__":
 	for x in extracted:
 		# print ';'.join(map(lambda x:x.find(';')<0 and x.strip() or repr(x),x))
 		# print x
-		print '''{{Antarctic Protected Area row
+		print ('''{{Antarctic Protected Area row
 | type = %s
 | number = %s
 | name = %s
@@ -134,7 +135,7 @@ if __name__ == "__main__":
 | alt_country1 = 
 | alt_number1 = 
 | commonscat = 
+| url = %s
 | image = 
-}}
-''' % (x[0],x[1],x[2],x[6].strip(),x[3],x[8],x[7],convertCoords(x[4]),convertCoords(x[5]),x[9],x[16])
+}}''' % (x[0],x[1],x[2],x[6].strip(),x[3],x[8],x[7],convertCoords(x[4]),convertCoords(x[5]),x[9],x[16],x[-1].replace('=','{{=}}'))).replace('km2','km²')
 	print '|}'
