@@ -13,4 +13,5 @@ Progress
 * Wageningen (10 November 2012)
 * Houten (12 November 2012)
 * Antarctic (18–24 November 2012)
+* Den_Bosch (24–? November 2012)
 * …
