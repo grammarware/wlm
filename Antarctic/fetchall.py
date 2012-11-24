@@ -25,10 +25,10 @@ def safelyLoadURL(url):
 
 if __name__ == "__main__":
 	f = open('Antarctic1.html','w')
-	f.write(safelyLoadURL('http://www.ats.aq/devPH/apa/ep_protected_search.aspx?type=1&lang=e'))
+	f.write(safelyLoadURL('http://www.ats.aq/devPH/apa/ep_protected_search.aspx'))
 	f.close()
-	for i in range(82,161)+[4,5]:
-		f = open('detail%i.html' % i,'w')
+	for i in range(82,161)+[4,5,510,525,540,555,570,585,600,615,630,645,660,675,690]:
+		f = open('details/%i.html' % i,'w')
 		f.write(safelyLoadURL('http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=%i&lang=e' % i))
 		f.close()
 	sys.exit(0)
