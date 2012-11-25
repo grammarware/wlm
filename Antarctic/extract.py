@@ -104,7 +104,7 @@ def extractOne(xs):
 	
 if __name__ == "__main__":
 	extracted = []
-	for n in range(1,5):
+	for n in range(1,8):
 		f = open('Antarctic%i.html' % n,'r')
 		lines = map(lambda x:x.strip(),f.readlines())
 		for i in range(0,len(lines)):

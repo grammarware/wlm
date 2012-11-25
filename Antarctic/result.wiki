@@ -1799,4 +1799,1048 @@
 | url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}18&lang{{=}}e
 | image = 
 }}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 114
+| name = Northern Coronation Island., South Orkney Islands
+| description = The Area includes the region of northern Coronation Island (the largest of the South Orkney Islands) between Conception Point to the west and Foul Point to the east. The site embraces areas of coastal ice-free terrain with large seabird colonies and lichen-dominated cliffs. Permanent ice rising to the Brisbane Heights plateau provides an excellent representative area of a pristine ice environment near the northern limit of the maritime Antarctic. The interrelated terrestrial, ice and marine components of the area comprise an integrated example of the coastal, permanent ice, and sublittoral ecosystems typical of the maritime Antarctic environment. he primary potential value of the Area is as a reference site for use in comparative studies with more heavily impacted sites.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XIII-10
+| lat = -60.55
+| lon = -45.5833333333
+| area = 91.76 km²
+| M_plan = E - Antarctic Peninsula, Alexander and other islands main ice fields and glaciers)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}19&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 115
+| name = Lagotellerie Island, Marguerite Bay, Graham Land
+| description = Lagotellerie Island is situated in Marguerite Bay, Fallières Coast, Graham Land, 46km SE of Rothera Point on Adelaide Island, 11km south of Porquois Pas Island, and 3.25km west of the south end of Horseshoe Island. The island contains relatively diverse flora and fauna typical of the southern Antarctic Peninsula. Of particular interest is the abundance of the only two Antarctic flowering plants, which form stands of up to 10m2, and are amongst the largest stands known south of the South Shetland Islands The shallow loamy soil developed beneath the plant swards and its associated invertebrate fauna and microbiota are probably unique at this latitude. There is also a colony of about 1000 pairs of Adélie penguins and one of the southernmost colonies of blue-eyed shags.  Numerous pairs of brown and south polar skuas also breed on the island.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XIII-11
+| lat = -67.8833333333
+| lon = -67.4
+| area = 1.62 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}20&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 116
+| name = New College Valley, Caughley Beach, Cape Bird, Ross Island
+| description = New College Valley is located south of Cape Bird on ice-free slopes above Caughley Beach, which lies between two Adélie penguin rookeries known as the Cape Bird Northern and Middle Rookeries. The area is the site of the most extensive and luxuriant stands of moss, algae, and lichens in southern Victoria Land; the terrestrial ecosystem within the site is the subject of long-term research. Because of the susceptibility of the cryptogamic vegetation to damage from trampling, designation of the area provides protection for its biota.  The Restricted Zone is a conservation reserve with more stringent access conditions
+| proponent = New Zealand
+| management = 
+| adopted = Rec XIII-12
+| lat = -77.2166666667
+| lon = 166.483333333
+| area = 0.34 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}21&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 117
+| name = Avian Island, Marguerite Bay, Antarctic Peninsula
+| description = Avian Island is situated in north-western Marguerite Bay, 400m south of Adelaide Island, on the western side of the central Antarctic Peninsula. The site is of outstanding ornithological importance and unique in the Antarctic Peninsula region for its abundance and diversity, with six different seabirds breeding in such close proximity to each other. These include Adélie penguins, blue-eyed cormorants, southern giant petrels, kelp gulls, skuas, and Wilson's storm petrels. Several of these colonies are at the southernmost limits of their ranges, and are significant contributors to their total regional populations.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XVI-4
+| lat = -67.7666666667
+| lon = -68.9
+| area = 1.12 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}22&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 118
+| name = Summit of Mount Melbourne, Victoria Land
+| description = Mount Melbourne is in northern Victoria Land on the western side of the Ross Sea.  It is situated between Wood Bay and Terra Nova Bay, about 10km east of Campbell Glacier. The Area exhibits high biodiversity relative to other geothermal sites in the Antarctic, both maritime and high altitude. The warmest areas of ground created by fumaroles support patches of moss, liverwort and algae along with one species of invertebrate protozoan. This includes the only known leafy example of the moss Campylopus pyriformis on the Antarctic continent, and the rare continental occurrence of the liverwort Cephaloziella varians.  comparable to the two other known high altitude, geothermally influenced ice-free areas, near the summits of Mount Erebus and Mount Rittman.
+| proponent = New Zealand
+| management = 
+| adopted = Rec XIV-5
+| lat = -74.35
+| lon = 164.7
+| area = 6.56 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}23&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 119
+| name = Davis Valley and Forlidas Pond, Dufek Massif, Pensacola Mountains
+| description = Davis Valley and Forlidas Pond are situated in the north-eastern Dufek Massif of the Pensacola Mountains, part of the Transantarctic Mountain range. The area contains some of the most southerly freshwater ponds known in Antarctica, which are protected as examples of unique near pristine freshwater ecosystems and their catchments. They provide unique opportunities for the scientific study of biological communities near the extreme limit of the occurrence of these environments. The Area is believed to be one of the most pristine ice-free valley systems in Antarctica, and is therefore considered to possess outstanding potential as a reference area for studies understanding the response of the Antarctic ice sheet to climate change.
+| proponent = United States
+| management = 
+| adopted = Rec XVI-9
+| lat = -82.45
+| lon = -51.35
+| area = 56.81 km²
+| M_plan = R - Transantarctic Mountains geologic (Shackleton Range to Cook Mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}24&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 120
+| name = Pointe-Geologie Archipelago, Terre Adélie
+| description = The area comprises four islands: Jean Rostand, Le Mauguen, Lamarck and Claude Bernard; a nunatak, and a breeding ground for emperor penguins located in the heart of the Cape Geology Archipelago in the coastal area of Adélie Coast. It is a representative area of considerable biological, geological, and aesthetic value.  It contains a high diversity of flora and fauna and is an important area for scientific research. Long-term research programmes on bird colonies, marine mammals and geology have been conducted in the area since 1952. Among the 30 or so emperor penguin breeding sites on record this is the only one located adjacent to a permanent station.
+| proponent = France
+| management = 
+| adopted = M  3 (1995) 
+| lat = -66.6666666667
+| lon = 140.033333333
+| area = 0.37 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}25&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 121
+| name = Cape Royds, Ross Island
+| description = Cape Royds is situated at the western extremity of Ross Island, McMurdo Sound, on a coastal strip of ice-free land. Approximately 8 km wide, on the lower western slopes of Mount Erebus. The Area comprises both a terrestrial and marine component. The area supports the most southerly established Adélie penguin colony known. The site was specially protected to allow the penguin population to recover and protect on-going science programs. The colony remains of high scientific and ecological value and as such merits continued long-term special protection, especially in view of ongoing visits to Cape Royds from nearby stations and tourist groups.
+| proponent = United States
+| management = 
+| adopted = Rec VIII-4
+| lat = -77.5555555556
+| lon = 166.165555556
+| area = 0.62 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}26&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 122
+| name = Arrival Heights, Hut Point Peninsula, Ross Island
+| description = Arrival Heights is a small range of low hills near the south-eastern end of Hut Point Peninsula, south-east Ross Island. Hut Point Peninsula is formed by a line of craters that extend south from the flanks of Mt. Erebus. The area is a natural and electromagnetically quiet site offering ideal conditions for the installation of sensitive instruments for recording data associated with upper atmosphere research programmes. Moreover, the original geographical characteristics of the site, such as its elevated position and thus broad viewing horizon, the volcanic crater morphology, and close proximity to the full logistic support of nearby McMurdo Station (US) (1.5km south and Scott Base (NZ) 3km south-east), continue to render the Area valuable for upper atmospheric studies and boundary layer air sampling studies.
+| proponent = United States
+| management = 
+| adopted = Rec VIII-4
+| lat = -77.8166666667
+| lon = 166.65
+| area = 0.73 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}27&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 123
+| name = Barwick and Balham Valleys, Southern Victoria Land
+| description = Barwick Valley is situated about 65km inland from the Ross Sea coast of southern Victoria Land. The Area includes Barwick and Balham Valleys, and their respective catchments. The site is one of the least disturbed and contaminated of the dry valleys of Victoria Land, which are environmentally unique and possess extreme polar desert ecosystems. The site is important as a reference base to measure against changes in comparable ecosystems of the other dry valleys where scientific investigations are regularly conducted.
+| proponent = United States
+| management = 
+| adopted = Rec VIII-4
+| lat = -77.3333333333
+| lon = 161.0
+| area = 418.14 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}28&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 124
+| name = Cape Crozier, Ross Island
+| description = Cape Crozier is at the eastern extremity of Ross Island, where an ice-free area comprises the lower eastern slopes of Mount Terror. The Area is situated in the vicinity of Post Office Hill, extending to encompass the adjacent Ross Ice Shelf, where large cracks in the ice shelf are covered by fast-ice that is occupied annually by breeding Emperor penguins. The area supports rich bird and mammal fauna as well as microfauna and microflora, and the ecosystem depends on a substantial mixing of marine and terrestrial elements of outstanding scientific interest. Protection is afforded to the long-term studies of the population dynamics and social behaviour of Emperor and Adélie penguin colonies; as well as skua populations and vegetation assemblages.
+| proponent = United States
+| management = 
+| adopted = Rec IV-6
+| lat = -77.5083333333
+| lon = 169.358333333
+| area = 72.21 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}29&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 125
+| name = Fildes Peninsula, King George Island (25 de Mayo)
+| description = The Fildes Peninsula is the most extensive coastal area free of snow in summer in King George Island (25 de Mayo), with a length of around 7km. It is one of the areas in Antarctica of greatest paleontological interest, owing to the presence of outcrops with fossil remains of a wide range of organisms, including vertebrate and invertebrate ichnites, and abundant flora with impressions of leaves and fronds, trunks, pollen grains and spores that date from the Late Cretaceous to the Eocene period.
+| proponent = Chile
+| management = 
+| adopted = Rec IV-12
+| lat = -62.2
+| lon = -58.9666666667
+| area = 2.34 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}30&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 126
+| name = Byers Peninsula, Livingston Island, South Shetland Islands
+| description = Byers Peninsula is situated at the west end of Livingston Island. Designated to protect three smaller ice-free sites on the peninsula of Jurassic and Cretaceous sedimentary and fossiliferous strata, it is considered of outstanding scientific value for study of the former link between Antarctica and other southern continents. The Area is also known for its considerable biological and archaeological importance, with coastal and inland lakes with particularly important biota. The inland lakes contain aquatic mosses and serve as breeding sites for the midge Parochlus steinenii, the only native winged insect in the Antarctic. The peninsula is also of exceptional historical interest, containing the greatest concentration of 19th century historical sites in Antarctica, such as the remains of refuges, contemporary artifacts, and shipwrecks of early nineteenth century sealing expeditions.
+| proponent = Chile, United Kingdom
+| management = 
+| adopted = Rec IV-10
+| lat = -62.5763888889
+| lon = -61.2186111111
+| area = 90.56 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}31&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 127
+| name = Haswell Island
+| description = The Area is defined by a polygon which comprises Haswell Island (the largest island in the archipelago), its littoral zone, and the adjacent section of fast ice in the Davis Sea. The site is a unique and exceptionally important breeding site for almost all breeding bird species in East Antarctica, including five species of petrel, one species of skua, and one species of penguin. The Area also supports five species of pinnipeds, including the Ross seal which is a Specially Protected Species. It has one of a few Emperor penguin colonies in the vicinity of a permanent Antarctic station, providing advantages for the study of the species and its habitat
+| proponent = Russian Federation
+| management = 
+| adopted = Rec VIII-4
+| lat = -66.5166666667
+| lon = 93.0
+| area = 5.01 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}32&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 128
+| name = Western shore of Admiralty Bay, King George Island, South Shetland Islands
+| description = The Area supports an exceptional assemblage of Antarctic birds and mammals close to Arctowski Station (Poland), which is frequently visited by tourist ships. An important aim of the Area is to protect long-term research programmes, conducted on the site since 1976, from accidental disturbance, especially during the breeding season.
+| proponent = Poland
+| management = 
+| adopted = Rec X-5
+| lat = -62.1833333333
+| lon = -58.45
+| area = 18.04 km²
+| M_plan = A - Antarctic Peninsula northern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}33&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 129
+| name = Rothera Point, Adelaide Island
+| description = Rothera Point is situated in Ryder Bay, at the south-east corner of Wright Peninsula on the east side of Adelaide Island, south-west Antarctic Peninsula. The site serves as a biological research site and control area, against which the effects of human impact associated with the adjacent Rothera Research Station (UK) can be monitored in an Antarctic fellfield ecosystem. The Area itself has little intrinsic nature conservation value. South polar skuas and kelp gulls nest at the site.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XIII-8
+| lat = -67.5666666667
+| lon = -68.1
+| area = 0.04 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}34&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 130
+| name = 'Tramway Ridge', Mount Erebus, Ross Island
+| description = The Area is a square of 200m by 200.8m, encompassing most of the warm ground area of lower Tramway Ridge. The Area is divided into two parts of almost equal size, the northern half being a Prohibited Zone. Mount Erebus provides one of only three known high-altitude areas of fumarolic activity and associated vegetation in the Antarctic. The warm ground and its vegetation are of interest to botanists, physiologists and microbiologists, and serve as a reference site for ecological research. The area has significant gas emission and its soil has the highest surface temperatures on Mt Erebus, making it also of interest to volcanologists. The regional uniqueness of the communities is of substantial scientific interest and value.
+| proponent = New Zealand
+| management = 
+| adopted = Rec XIII-8
+| lat = -77.5166666667
+| lon = 167.116666667
+| area = 0.04 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}35&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 131
+| name = Canada Glacier, Lake Fryxell, Taylor Valley, Victoria Land
+| description = The Area is situated in the Taylor Valley in the southern Victoria Land Dry Valleys. It encompasses most of the glacier forefeild area on the east side of the lower Canada Glacier, and includes  the sloping ice-free ground with summer ponds and small meltwater streams draining from the Canada Glacier to Lake Fryxell.  It contains some of the richest plant growth (algae and mosses) in the southern Victoria Land Dry Valleys and is valuable as a reference site for other dry valley ecosystems. The concentration of research activity within the area makes it necessary to regulate human impact in respect of trampling, water quality and sampling.
+| proponent = New Zealand
+| management = 
+| adopted = Rec XIII-8
+| lat = -77.6166666667
+| lon = 163.05
+| area = 1.51 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}36&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 132
+| name = Potter Peninsula, King George Island, (Isla 25 de Mayo), South Shetland Islands
+| description = This Area is located on the east coast of Maxwell Bay,  south-west of King George Island, between the southern tip of Mirounga Point (North-west of Potter Peninsula) and the outcrop known as “Spur 7” on the north-eastern border of Stranger Point. It hosts important bird colonies, marine mammal breeding areas and diverse vegetal species. . It is close to the Argentine Jubany Base., Long-term research programmes on the breeding ecology of elephant seals and birds (carried out in the Area since 1982) could be endangered by accidental disturbance, especially during breeding periods.
+| proponent = Argentina
+| management = 
+| adopted = Rec XIII-8
+| lat = -62.25
+| lon = -58.65
+| area = 2.17 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}37&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 133
+| name = Harmony Point, Nelson Island, South Shetland Islands
+| description = This Area is located on the west coast of Nelson Island, between King George Island to the north-east and Robert Island to the south-west.  It includes Harmony Point, the Toe, the adjacent ice and the surrounding marine zone. It is an area rich in avian species, with large breeding colonies of eleven seabird species, including one of the largest single colonies of chinstrap penguins in Antarctica. Vegetation cover is extensive and comprises a rich flora including mosses, lichen, and species of flowering plants.
+| proponent = Argentina, Chile
+| management = 
+| adopted = Rec XIII-8
+| lat = -62.3
+| lon = -59.1833333333
+| area = 30.69 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}38&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 134
+| name = Cierva Point and offshore islands, Danco Coast, Antarctic Peninsula
+| description = Cierva Point is located on the south coast of Cierva Cove, to the north of Hughes Bay, between the Danco and Palmer Coasts, in the north-western portion of the Antarctic Peninsula. The site sustains important avian populations, extensive vegetation and a diverse flora including the two Antarctic flowering plants, several liverworts and invertebrate fauna. The unique topography of the Area together with the abundance and diversity of the vegetation create highly favourable conditions for the formation of numerous microhabitats which, in turn, support the development of biodiversity and give the Area exceptional aesthetic value.
+| proponent = Argentina
+| management = 
+| adopted = Rec XIII-8
+| lat = -64.1666666667
+| lon = -61.0166666667
+| area = 59.03 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}39&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 135
+| name = North-east Bailey Peninsula, Budd Coast, Wilkes Land
+| description = The Area is located on Bailey Peninsula in the Windmill Islands region of Budd Coast, Wilkes Land, East Antarctica. The site contains contrasting habitats and water bodies, extremely rich lichen and moss communities, and an important stand of liverwort. Proximity to the nearby Casey Station (Australia) minimizes logistical problems for field research and, at the same time, maximizes the potential for disturbance of research   in the Area (including studies into the diverse assemblage of vegetation since the early 1980s). It is primarily for the latter reason that the site requires protection.
+| proponent = Australia
+| management = 
+| adopted = Rec XIII-8
+| lat = -66.2833333333
+| lon = 110.55
+| area = 0.28 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}40&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 136
+| name = Clark Peninsula, Budd Coast, Wilkes Land
+| description = Clark Peninsula is an area of rock exposures, permanent ice and snow fields, situated on the north side of Newcomb Bay at the east end of Vincennes Bay on Budd Coast, Wilkes Land. It provides a unique and visible time sequence of the emergence of the area of the Windmill Islands from the sea since the Holocene deglaciation. Scientific research within the area has focused on plant communities and long term population studies of Adélie penguin colonies. The protection of this flora and fauna allows for valuable comparison with similar plant communities and penguin colonies closer to Casey Station, which are subject to greater levels of human disturbance.
+| proponent = Australia
+| management = 
+| adopted = Rec XIII-8
+| lat = -66.25
+| lon = 110.6
+| area = 9.38 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}41&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 137
+| name = North-West White Island, McMurdo Sound
+| description = White Island, part of the McMurdo volcanic complex, is situated approximately 20km south-east of the edge of the McMurdo Ice Shelf and 25km south-east of Hut Point, the location of McMurdo Station (US) and Scott Base (NZ) on Ross Island. This locality contains an unusual breeding population of Weddell seals which has been physically isolated from other populations by the advance of the McMurdo Ice Shelf and Ross Ice Shelf. It is one of the very few areas where Weddell seals feed under an ice shelf. It is also one of the most southerly Weddell seal populations and has been studied year-round. The population is considered to have exceptional scientific value because of its period of physical isolation from interaction with other seals, thought to be around 60 years.  Investigations are being undertaken of the extent to which the group may be considered a genetically distinct population.
+| proponent = United States
+| management = 
+| adopted = Rec XIII-8
+| lat = -78.1166666667
+| lon = 167.183333333
+| area = 141.61 km²
+| M_plan = P - Ross and Ronne-Filchner ice shelves
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}42&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 138
+| name = Linnaeus Terrace, Asgard Range, Victoria Land
+| description = Linnaeus Terrace is a bench of weathered Beacon Sandstone approximately 1.5km in length and 1km in width at an elevation of about 1600m, located at the western end of the Asgard Range, 1.5km north of Oliver Peak. The site is one of the richest localities for the unique cryptoendolithic communities which colonize the Beacon Sandstone. The sandstones exhibit a range of biological and physical weathering forms, as well as trace fossils, and many of the formations are fragile and vulnerable to disturbance and destruction by trampling and sampling.
+| proponent = United States
+| management = 
+| adopted = Rec XIII-8
+| lat = -77.5833333333
+| lon = 161.083333333
+| area = 0.78 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}43&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 139
+| name = Biscoe Point, Anvers Island, Palmer Archipelago
+| description = Biscoe Point is at the western extremity of a small island located close to the southern coast of Anvers Island, in the region west of the Antarctic Peninsula known as the Palmer Archipelago. The site contains a large but discontinuous stand of the two native vascular plants of Antarctica, Antarctic hair grass and Antarctic pearlwort. A relatively well developed loam occurs beneath the closed swards of the grass, and contains rich biota including the apterous midge Belgica Antarctica. It has not yet been substantially damaged by Antarctic fur seals, so the area is a potential control site for assessing Antarctic fur seal impacts on vegetation and soils in this region. It is also valuable for ornithological research. Long-term studies are being conducted on both Adélie and gentoo penguin colonies present within the Area, which could be jeopardised by interference from nearby Palmer Station and from tourist ships.
+| proponent = United States
+| management = 
+| adopted = Rec XIII-8
+| lat = -64.8
+| lon = -63.7833333333
+| area = 0.6 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}44&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 140
+| name = Parts of Deception Island, South Shetland Islands
+| description = Deception Island is an active volcano located in the South Shetland Islands The Area comprises of 11 sub-sites, lettered A to L (but excluding I), in a clockwise direction from the south-west of the Deception Island caldera, and referred to by the most prominent named geographical feature associated with each site. Due to major volcanic eruptions in 1967, 1969 and 1970, the island offers unique opportunities to study colonization processes in Antarctic environments. The flora of the island is unique in Antarctic terms, particularly where associated with these geothermal areas, but also because of the recently formed surfaces which provide known-age habitats for the study of colonization and other dynamic ecological processes by terrestrial organisms.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XIII-8
+| lat = 62.95
+| lon = 60.6333333333
+| area = 2.57 km²
+| M_plan = B - Antarctic Peninsula mid-northern latitudes geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}45&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 141
+| name = Yukidori Valley, Langhovde, Lützow-Holm Bay
+| description = Yukidori Valley is situated in the middle part of Langhovde, on the east coast of Lützow-Holm Bay, Continental Antarctica. The area is representative of the typical Antarctic fellfield ecosystem. Permanent quadrats for monitoring lichen and moss vegetation have been established in this typical continental ecosystem to investigate long-term environmental change.  Considering the increasing pedestrian traffic from the nearby Syowa Station (Japan) the aim is to keep human impacts on the ecosystem to a minimum and protect scientific research.
+| proponent = Japan
+| management = 
+| adopted = Rec XIV-5
+| lat = -69.2416666667
+| lon = 39.7666666667
+| area = 4.88 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}46&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 142
+| name = Svarthamaren
+| description = The Area consists of the ice free areas of the Svarthmaren nunatak, as part of the Mühlig-Hoffmanfjella in Dronning Maud Land, and the nunatak’s surrounding rocks and boulders. It holds the largest known inland seabird colony in Antarctica, with snow petrel, south polar skua, and the largest proportion of the known world population of Antarctic petrel. The colony is an exceptional “natural research laboratory” providing for research on these seabirds, and their adaptation to breeding in the inland/interior of Antarctica.
+| proponent = Norway
+| management = 
+| adopted = Rec XIV-5
+| lat = -71.9111111111
+| lon = 5.18333333333
+| area = 6.49 km²
+| M_plan = T - Inland continental geologic (Dronning Maud, MacRobertson, Victoria, Oates lands, Ford Range) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}2&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 143
+| name = Marine Plain, Mule Peninsula, Vestfold Hills, Princess Elizabeth Land
+| description = Marine Plain lies approximately 10km south-east of Davis Station in the Vestfold Hills. The Area possesses unique vertebrate fossil fauna and is of exceptional ongoing scientific interest because of its relevance to the palaeocological and palaeoclimatic record of Antarctica. The Area has been subject to several detailed geological, palaeontological, geomorphologic and glaciological studies. Burton Lake, a hypersaline lagoon in seasonal connection with the marine environment to the west of the site, represents a unique stage in the biological and physico-chemical evolution of a terrestrial water body from the marine environment.
+| proponent = Australia
+| management = 
+| adopted = Rec XIV-5
+| lat = -68.6305555556
+| lon = 78.1319444444
+| area = 20.46 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}47&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 144
+| name = 'Chile Bay' (Discovery Bay), Greenwich Island, South Shetland Islands
+| description = The Area comprises two small areas of benthic habitat in Chile Bay. It has been the location of continuous benthic research since 1967, following the volcanic eruption on Deception island. Data being accumulated provides a baseline for long-term scientific investigations.
+| proponent = Chile
+| management = 
+| adopted = Rec XIV-5
+| lat = -62.485
+| lon = -59.6908333333
+| area = 0.66 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}48&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 145
+| name = Port Foster, Deception Island, South Shetland Islands
+| description = The Area comprises two sub-areas in Port Foster, Deception Island: benthic habitat A, with depths of between 50 and 150m; and benthic habitat B, between 100 and 150m deep. The Area is of exceptional ecological interest because of its active volcanic character. It also has a diversity of benthic fauna on two different kinds of sea bottom substrates. These two habitat areas are subject to long-term research on the ecological process of recolonisation after volcanic eruption, and it is necessary to reduce the risk of accidental interference which could jeopardize these studies.
+| proponent = Chile
+| management = 
+| adopted = Rec XIV-5
+| lat = -62.9308333333
+| lon = -60.625
+| area = 2.24 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}49&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 146
+| name = South Bay, Doumer Island, Palmer Archipelago
+| description = Doumer Island lies at the south-west entrance to the Neumayer Channel. It is separated from Wiencke Island by the Peltier Channel. South Bay lies on the south coast of Doumer Island. The site consists of a small area of coastal and subtidal benthos down to 45 m depth. It is the subject of a long-term study on marine ecology, focused on the study of the relationships between the marine organisms in the area.
+| proponent = Chile
+| management = 
+| adopted = Rec XIV-5
+| lat = -64.8666666667
+| lon = -63.5833333333
+| area = 0.96 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}50&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 147
+| name = Ablation Valley And Ganymede Heights, Alexander Island
+| description = Ablation Valley – Ganymede Heights is situated on the east side of Alexander Island, the largest island off the western coast of Palmer Land, Antarctic Peninsula. The site is one of the largest ice-free ablation areas in West Antarctica, making it an area of outstanding scientific interest. The site contains the only known area of unbroken exposure of rocks spanning the Jurassic – Cretaceous boundary in the Antarctic. There is also an exceptional and unique contiguous geomorphologic record of glacier and ice-shelf fluctuations extending over several thousand years, together with an outstanding assemblage of other geomorphologic features. Two perennially frozen freshwater lakes, which have the unusual property of contact with the saline waters of George VI Sound, are also a site for research activity. The Area also has the greatest bryophyte diversity of any site at this latitude in Antarctica.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XV-6
+| lat = -70.8333333333
+| lon = -68.5
+| area = 109.02 km²
+| M_plan = C - Antarctic Peninsula southern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}51&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 148
+| name = Mount Flora, Hope Bay, Antarctic Peninsula
+| description = Mount Flora is situated on the south-eastern flank of Hope Bay,  on the Antarctic Peninsula. The Area contains rich fossil flora, which was among the first fossil floras discovered in Antarctica.  It has played a significant stratigraphic role in deducing the geological history of the Antarctic Peninsula. The Area requires protection  because of its long history as a geological research site, and its easy accessibility  makes it vulnerable to souvenir collectors.
+| proponent = United Kingdom
+| management = 
+| adopted = Rec XV-6
+| lat = -63.4166666667
+| lon = -57.0166666667
+| area = 0.35 km²
+| M_plan = A - Antarctic Peninsula northern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}52&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 149
+| name = Cape Shirreff and San Telmo Island, Livingston Island, South Shetland Islands
+| description = Cape Shirreff is situated on the northern coast of Livingston Island, between Barclay Bay and Hero Bay. The Antarctic fur seal and penguin breeding colonies and krill fisheries within the foraging range of these species make this a critical site for ecosystem monitoring. A survey of the South Shetland Islands and the Antarctic Peninsula identified Cape Shirreff – San Telmo Island as the most suitable site to monitor Antarctic fur seal colonies that could be affected by fisheries around the South Shetland Islands. The fur seal colony itself is the largest in the Antarctic Peninsula region, and has undergone monitoring since 1965, making it one of the longest continuous Antarctic fur seal monitoring programmes.
+| proponent = United States
+| management = 
+| adopted = Rec IV-11
+| lat = -62.4583333333
+| lon = -60.7880555556
+| area = 9.74 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}53&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 150
+| name = Ardley Island, Maxwell Bay, King George Island (25 de Mayo)
+| description = The Area comprises most of the island, and is linked to King George Island (25 de Mayo) by an isthmus that remains submerged at high tide. The eastern part of the isthmus, that remains dry during high tide, is included in the Area as it is part of the island. The island was designated as a protected area on account of the diverse assemblage of bird species that breed on it, and in order to allow a study of their ecology and the factors that affect their populations. It also possesses a developed and outstanding flora, with several species of lichens, mosses and vascular plants.
+| proponent = Chile
+| management = 
+| adopted = Rec XVI-2
+| lat = -62.2166666667
+| lon = -58.9
+| area = 1.22 km²
+| M_plan = G - Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}54&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 151
+| name = Lions Rump, King George Island, South Shetland Islands
+| description = Lions Rump is located on the southern coast of King George Bay, King George Island. The Area is representative of the terrestrial, limnological and littoral habitats of the maritime Antarctic.   There is rich lichen flora, and two native flowering plants. Twelve species of birds, including colonies of Adélie, chinstrap and gentoo penguins, nest within the area. There are large numbers of elephant seals and fur seals on the beaches.  The Area has had minimal disturbance from human activity, except for occasional monitoring studies of the mammal and bird populations, geological and geomorphologic studies, and should be protected against damaging activities.
+| proponent = Poland
+| management = 
+| adopted = Rec XVI-2
+| lat = 0.0
+| lon = 0.0
+| area = 1.32 km²
+| M_plan = A - Antarctic Peninsula northern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}55&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 152
+| name = Western Bransfield Strait
+| description = This marine ASPA lies off the western and southern coasts of Low Island, South Shetland Islands. The shallow shelf south of Low Island is one of only two known sites in the vicinity of Palmer Station that are suitable for bottom trawling for fish and other benthic organisms. From an ecological standpoint, the Low Island site offers unique opportunities to study the composition, structure, and dynamics of several accessible marine communities. The Site, and in particular, its benthic fauna, is of exceptional scientific interest and requires long-term protection from potential harmful interference.
+| proponent = United States
+| management = 
+| adopted = Rec XVI-3
+| lat = -63.3833333333
+| lon = -62.35
+| area = 915.8 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}56&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 153
+| name = Eastern Dallmann Bay
+| description = This marine ASPA lies off the western and northern coasts of Brabant Island, Palmer Archipelago, situated 65 km west of the Antarctic Peninsula, between Brabant and Anvers Islands, with Bransfield Strait to the north and Gerlache Strait to the south. It is one of only two known sites near Palmer Station that are suitable for bottom trawling for fish and other benthic organisms. The Site and, in particular, its benthic fauna, are of exceptional scientific interest and require long-term protection from harmful interference.
+| proponent = United States
+| management = 
+| adopted = Rec XVI-3
+| lat = -64.1666666667
+| lon = -62.8333333333
+| area = 609.54 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}57&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 154
+| name = Botany Bay, Cape Geology, Victoria Land
+| description = Cape Geology is situated in the south-western corner of Granite Harbour, southern Victoria Land, approximately 100km north-west of Ross Island. The site is an extremely rich botanical refuge for such a high latitude location, with a lichen and moss species diversity and abundance that is unique for Southern Victoria Land. There are also abundant growths of algae, large populations of invertebrates and a colony of south polar skua. The Area also contains a Managed Zone, which contains the remains of a rock shelter and associated artefacts of historical importance from the 1910-1913 British Antarctic Expedition.
+| proponent = New Zealand
+| management = 
+| adopted = M  3 (1997) 
+| lat = -77.0083333333
+| lon = 162.566666667
+| area = 2.14 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}58&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 155
+| name = Cape Evans, Ross Island
+| description = Cape Evans is a small, triangular shaped, ice-free area in the south west of Ross Island, 10km to the south of Cape Royds and 22km to the north of Hut Point Peninsula on Ross Island. The site is one of the principal sites of the Heroic Age of Antarctic exploration; it contains historic structures and relics pertaining to this era. Some of the earliest advances in Antarctic science are associated with the R.F. Scott Terra Nova Expedition, and as such, the site has considerable historical, cultural and scientific significance. It was subsequently used as a base by the Ross Sea party of Sir Ernest Shackleton’s Imperial Trans-Antarctic Expedition of 1914-1917. The site includes Terra Nova hut and numerous artefacts that are distributed around the site.
+| proponent = New Zealand
+| management = 
+| adopted = M  2 (1997) 
+| lat = -77.6333333333
+| lon = 166.4
+| area = 0.06 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}59&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 156
+| name = Lewis Bay, Mount Erebus, Ross Island
+| description = The Area was the site of an Air New Zealand aircraft crash on 28 November 1979 into the northern slope of Mount Erebus. The designated Area encompasses the crash zone and the surrounding glacial ice 2km above and to either side of this position. All two hundred and fifty seven people on board the aircraft lost their lives in the tragedy. The site of the tragedy was originally designated a tomb to be "left in peace". The stainless steel cross memorial, approximately 3km from the site, is not part of the ASPA, but is Historic Monument 73. The Area is to be kept protected as a mark of respect, in remembrance of the victims of the tragedy and in order to protect the site’s emotional values.
+| proponent = New Zealand
+| management = 
+| adopted = M  2 (1997) 
+| lat = -77.4247222222
+| lon = 167.475
+| area = 14.41 km²
+| M_plan = O - West Antarctic Ice Sheet (also includes inland Coats Land, Taylor Dome, Ross Island ice cap)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}60&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 157
+| name = Backdoor Bay, Cape Royds, Ross Island
+| description = Cape Royds is an ice free area at the western extremity of Ross Island, approximately 40km to the south of Cape Bird and 35km to the north of Hut Point Peninsula on Ross Island. The area is one of the principal sites of the Heroic Age of Antarctic exploration and it contains historic structures and relics pertaining to this era. Some of the earliest advances in the study of earth sciences, meteorology, flora and fauna in Antarctica are associated with the  1907-1909 British Antarctic (Nimrod) Expedition which was based at this site. The hut was also used again by the Ross Sea Party of the Imperial Trans-Antarctic Expedition of 1914-1917. As such, the site has high historical, cultural and scientific significance. Numerous additional artifacts are distributed around the Area.
+| proponent = New Zealand
+| management = 
+| adopted = M  1 (1998) 
+| lat = -77.5527777778
+| lon = 166.168333333
+| area = 0.04 km²
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}61&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 158
+| name = Hut Point, Ross Island
+| description = Hut Point is a small ice free area protruding south west from the Hut Point Peninsula and situated to the west of the United States McMurdo Station. The designated Area consists solely of the structure of the hut which is situated near the south western extremity of Hut Point. The hut is one of the principal sites of the Heroic Age of Antarctic exploration, being built during the National Antarctic (Discovery) Expedition in 1901-1904, and used again by other expeditions in 1907-1909, 1910-1913, and 1914-1917. Consequently, the site contains historic structures and relics pertaining to this era, with some of the earliest advances in Antarctic science are associated with the Discovery Expedition.
+| proponent = New Zealand
+| management = 
+| adopted = M  1 (1998) 
+| lat = -77.8472222222
+| lon = 166.633333333
+| area = N/A
+| M_plan = S - McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}62&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 159
+| name = Cape Adare, Borchgrevink Coast
+| description = Cape Adare is a generally ice free, prominent volcanic headland, at the northern extremity of Victoria Land. The Area is located to the south west of the Cape on the southern shore of Ridley Beach. The area is an important symbol of the Heroic Age of Antarctic exploration and, as such, has considerable historical and cultural significance. Some of the earliest advances in Antarctic science are associated with the two earliest expeditions based at this site. There are three main structures in the Area. Two were built in February 1899 by the British Antarctic Expedition led by Borchgrevink (1898-1900), and used for the first winter spent on the Antarctic continent. In 1911 Scott's British Antarctic Expedition (1910-13) Northern Party wintered at the third hut, situated 30m to the north of Borchgrevink's hut and built in February 1911. There are also numerous associated historical relics located in the Area.
+| proponent = New Zealand
+| management = 
+| adopted = M  1 (1998) 
+| lat = -71.3
+| lon = 170.15
+| area = 0.03 km²
+| M_plan = U - North Victoria Land geologic (also includes Executive Committee Range, Prince Charles & Jones mountains) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}63&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 160
+| name = Frazier Islands, Windmill Islands, Wilkes Land, East Antarctica
+| description = The Frazier Islands are three islands located in the eastern part of Vincennes Bay, approximately 16km to the west-north-west of Casey Station (Australia). The islands are one of only four known breeding colonies of southern giant petrels around the coastline of continental Antarctica, and it is the only breeding site in nearly 3000 km of coastline between Davis Station (Australia) and Dumont d’Urville (France). The site has been visited infrequently, typically only for seabird observations, and provides a reference area for future comparative studies with other breeding populations of southern giant petrels.
+| proponent = Australia
+| management = 
+| adopted = M  2 (2003) 
+| lat = -66.2333333333
+| lon = 110.166666667
+| area = 0.6 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}64&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 161
+| name = Terra Nova Bay, Ross Sea
+| description = The Area is situated in Terra Nova Bay, between the Campbell Glacier Tongue and Drygalski Ice Tongue, Victoria Land. The region contains an important littoral area for well-established and long-term scientific investigations, with a high diversity at both species and community levels.  The sponge and anthozoan communities at Terra Nova Bay showing a unique structure. , and the region is particularly vulnerable to disturbance by pollution, over-sampling and alien introductions. Extensive marine ecological research has been carried out at Terra Nova Bay since 1986/1987, revealing a high diversity at both the species and community levels, with the sponge and anthozoan communities at Terra Nova Bay showing a unique structure. The Area is  vulnerable to disturbance by pollution, over-sampling and alien introductions, and requires protection against direct human impacts.
+| proponent = Italy
+| management = 
+| adopted = M  2 (2003) 
+| lat = -74.75
+| lon = 164.166666667
+| area = 29.46 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}65&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 162
+| name = Mawson’s Huts, Cape Denison, Commonwealth Bay, George V Land, East Antarctica
+| description = Cape Denison is a 1.5km-wide peninsula projecting into the centre of Commonwealth Bay, a 60km-wide stretch of coast in George V Land, East Antarctica. At the seaward end of this valley is Boat Harbour, a 400m long indentation in the coast. Mawson’s Main Hut is located about 65m from the harbor. This ASPA covers four sites, each consisting of one hut and extending 5m from the perimeter of the hut. The Area includes the Main Hut, the Transit Hut, the Absolute Magnetic Hut, and the Magnetograph House. The Area is to protect the historical, archaeological, technical, social and aesthetic values of Mawson’s Huts, which served as the base for the Australasian Antarctic Expedition of 1911-1914, organised and led by geologist Dr Douglas Mawson. It is an important symbol for the ‘Historic Era’ of Antarctic Exploration.
+| proponent = Australia
+| management = 
+| adopted = M  2 (2004) 
+| lat = -67.0083333333
+| lon = 142.661111111
+| area = N/A
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}66&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 163
+| name = Dakshin Gangotri Glacier, Dronning Maud Land
+| description = Dakshin Gangotri Glacier is a small tongue  of polar continental ice sheet, overriding the Schirmacher Oasis of central Dronning Maud Land.The site contains a small tongue of polar continental ice sheet, The glacier was  identified by the second Indian Antarctic Expedition in 1983, and since then its snout has being monitored continuously. With the availability of this vast amount of data for the past two decades, it has become a valuable site for observing the changes in the movement of the Antarctic ice sheet under the impact of global warming. The area has primary scientific importance for glaciologists and environmental scientists.
+| proponent = India
+| management = 
+| adopted = M  2 (2005) 
+| lat = -70.7541666667
+| lon = 11.6416666667
+| area = 4.31 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}67&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 164
+| name = Scullin and Murray Monoliths, Mac Robertson Land
+| description = Scullin Monolith and Murray Monolith are situated on the coast of Mac. Robertson Land approximately 160km east of Mawson Station (Australia). The Area holds the greatest concentration of breeding seabird colonies in East Antarctica, and is rich in species diversity. Including. It is also the second largest colony  for at least 160,000 pairs of Antarctic petrels, from a minimum estimated global total of approximately half a million pairs. Adélie penguin colonies also occupy the lower slopes of both monoliths, extending almost to the foreshore. The area possesses outstanding aesthetic values in the geomorphology of the two Monoliths and the spectacular nature of the glaciers descending from the Continental plateau that flow around the Monoliths ending in calving glaciers.
+| proponent = Australia
+| management = 
+| adopted = M  2 (2005) 
+| lat = -67.8019444444
+| lon = 66.7183333333
+| area = 10.23 km²
+| M_plan = U - North Victoria Land geologic (also includes Executive Committee Range, Prince Charles & Jones mountains) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}68&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 165
+| name = Edmonson Point, Wood Bay, Ross Sea
+| description = Edmonson Point is a coastal ice-free area of 1.79km² situated at Wood Bay, 50km north of Terra Nova Bay, and at the foot of Mount Melbourne (2732m), 13km east of the summit, in Victoria Land. The terrestrial and freshwater ecosystem is one of the most outstanding in northern Victoria Land. An exceptional diversity of freshwater habitats is present, with numerous streams, lakes, ponds and seepage areas, exhibiting nutrient conditions ranging from eutrophic to oligotrophic. The nature and diversity of the terrestrial and freshwater habitats offer outstanding scientific opportunities, This Area is considered one of the best sites in Antarctica for studies of algal ecology. The scientific value of Edmonson Point is also considered exceptional for studies on the impact of climate change on terrestrial ecosystems.
+| proponent = Italy
+| management = 
+| adopted = M  1 (2006) 
+| lat = -74.3333333333
+| lon = 165.133333333
+| area = 5.5 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}69&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 166
+| name = Port-Martin, Terre-Adélie
+| description = The Area is centered on a point which corresponds to the marker known as the “Astrolabe pillar”, located on the left hand side of the “refuge shelter” at Port Martin, Terre-Adélie. The site contains the remains of the main building (destroyed by fire in 1952) and several annexes build by members of successive French Antarctic expeditions between 1948 and 1952. Since then, only limited visits of a few hours have occurred, and with its short duration of operation, the remains of Port-Martin base are a  perfect illustration of a base in Antarctica in the immediate post-war period. For future archaeology, the site represents an optimal site to design methods and techniques adapted to extreme archaeological investigation conditions. It is considered not only as a historical bridge site, but also as an original archaeological field.
+| proponent = France
+| management = 
+| adopted = M  1 (2006) 
+| lat = -66.8166666667
+| lon = 141.383333333
+| area = 0.17 km²
+| M_plan = D - East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}70&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 167
+| name = Hawker Island, Vestfold Hills, Ingrid Christensen Coast, Princess Elizabeth Land, East Antarctica
+| description = Hawker Island is located approximately 300m offshore from the Vestfold Hills, which is a roughly triangular ice-free area of approximately 512km² of bedrock, glacial debris, lakes and ponds. The Area supports the southernmost breeding colony of southern giant petrels on continental Antarctica, alongside of Adélie penguins and a limited number of flying birds. The breeding population of southern giant petrels at the island decreased following its discovery in 1963, and human disturbance has been implicated in the observed decreases at all four southern giant petrel breeding sites on continental Antarctica. As an ASPA it completes the effort to safeguard all known southern giant petrel breeding locations in East Antarctica.
+| proponent = Australia
+| management = 
+| adopted = M  1 (2006) 
+| lat = -68.5833333333
+| lon = 77.8333333333
+| area = 2.17 km²
+| M_plan = T - Inland continental geologic (Dronning Maud, MacRobertson, Victoria, Oates lands, Ford Range) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}71&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 168
+| name = Mount Harding, Grove Mountains, East Antarctica
+| description = The Grove Mountains are located approximately 400km inland (south) of the Larsemann Hills in Princess Elizabeth Land, East Antarctica. The Area includes the open blue-ice zone from the moraine on the west side of Mount Harding to the east side of the Zakharoff Ridge; as well as a number of nunataks, a detritus zone and a moraine within it. The primary reason for designation of the site is to protect the unique geomorphologic features of the area for scientific research on the evolutionary history of East Antarctic Ice Sheet (EAIS). The remains of the fluctuation of ice sheet surface preserved around Mount Harding will most probably provide the precious direct evidences for reconstructing the EAIS behaviour. The site contains glacial erosion and wind-erosion physiognomies which are rare in nature and extremely vulnerable, such as the ice-core pyramid and the ventifact. These glacial-geological features have not only important scientific values, but also have rare wildness and aesthetic values.
+| proponent = China
+| management = 
+| adopted = M  2 (2008) 
+| lat = -72.9
+| lon = 75.0416666667
+| area = 102.78 km²
+| M_plan = T - Inland continental geologic (Dronning Maud, MacRobertson, Victoria, Oates lands, Ford Range) 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}72&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 169
+| name = Amanda Bay, Ingrid Christensen Coast, Princess Elizabeth Land, East Antarctica
+| description = Amanda Bay is located on the Ingrid Christensen Coast of Princess Elizabeth Land, East Antarctica. The Area was designated to protect the breeding colony of several thousand pairs of emperor penguins annually resident in the south-west corner of Amanda Bay, while providing for continued collection of valuable long-term research and monitoring data and comparative studies with colonies elsewhere in East Antarctica. The accessibility of Amanda Bay is advantageous for research purposes, but also creates the potential for human disturbance of the birds.
+| proponent = Australia, China
+| management = 
+| adopted = M  3 (2008) 
+| lat = -69.25
+| lon = 76.8330555556
+| area = 17.15 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}73&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 170
+| name = Marion Nunataks, Charcot Island, Antarctic Peninsula
+| description = Charcot Island is roughly circular in shape, approximately 50km across and is separated from north-west Alexander Island by Wilkins Sound and Wilkins Ice shelf. It is ice-covered with the exception of Marion Nunataks, which form a 12 km chain of rock outcrops that overlook the mid-north coast of Charcot Island. The area was designated to protect its outstanding environmental values and to facilitate ongoing and planned scientific research. The nunataks have several unique characteristics including two lichens species that have not been recorded elsewhere in Antarctica, mosses that are rarely found at such southerly latitudes and, perhaps most significantly off all, a complete lack of predatory arthropods and Collembola which are common at all other equivalent sites within the biogeographical zone.
+| proponent = United Kingdom
+| management = 
+| adopted = M  4 (2008) 
+| lat = -69.75
+| lon = -75.25
+| area = 179.55 km²
+| M_plan = C - Antarctic Peninsula southern geologic
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}74&lang{{=}}e
+| image = 
+}}
+{{Antarctic Protected Area row
+| type = ASPA
+| number = 171
+| name = Narebski Point, Barton Peninsula, King George Island
+| description = Narebski Point is located on the southeast coast of Barton Peninsula, King George Island. The Area is rich in flora and fauna, of which the abundance of some species is exceptional. The cover of mosses and lichens is very extensive. There are large numbers of Chinstrap and Gentoo Penguins and the breeding areas of seven other birds including the nests of the Southern Giant Petrel. The high diversity in relief and coastal forms, due to the presence of different geologies and a prominent system of fractures, in addition to an extensive and varied vegetation cover, provides unusual scenic diversity in the Antarctic environment.
+| proponent = Korea (ROK)
+| management = 
+| adopted = M  13 (2009) 
+| lat = -62.2341666667
+| lon = -58.7680555556
+| area = 0.89 km²
+| M_plan = 
+| alt_country1 = 
+| alt_number1 = 
+| commonscat = 
+| url = http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type{{=}}2&id{{=}}157&lang{{=}}e
+| image = 
+}}
 |}
