@@ -4,6 +4,21 @@ import sys, glob, re
 
 db = []
 
+def contract(s):
+	# input:  deventerstraat 18/deventerstraat 20/marktplein 25/marktplein 33/marktplein 37
+	# output: deventerstraat 18/20/marktplein 25/33/37
+	res = []
+	street = 'DOES NOT EXIST'
+	for name in s.split('/'):
+		if name.startswith(street):
+			res.append(name.replace(street,'').strip())
+		else:
+			if not name[0].isupper():
+				name = name[0].upper() + name[1:]
+			res.append(name)
+			street = ' '.join(name.split()[:-1])
+	return '/'.join(res)
+
 def allnumbersof(s):
 	z = s.replace(',','/').replace('-','/').split('/')
 	y = []
@@ -163,9 +178,34 @@ while not fixed:
 		fixed = True
 
 # saving
-f = open('monuments.txt', 'w')
+cx = 0
+f = open('monuments.wiki', 'w')
 for w in ws:
-	f.write('"%s",\n' % w)
+	w[1] = contract(w[1])
+	cx += 1
+	f.write('''
+{{Tabelrij gemeentelijk monument
+| object = %s
+| bouwjaar = 
+| architect = 
+| adres = %s
+| postcode = 
+| plaats = %s
+| lat = 
+| lon = 
+| gemcode = 0200
+| objnr = wikinr_%i
+| MIP_nr = 
+| kadaster = 
+| aangewezen = 
+| oorspr_fun = 
+| url = http://www.apeldoorn.nl/DATA/TER/docs/bezoek/cultuurhistorie/monumenten/monumentenlijst_20120117.pdf
+| commonscat = 
+| image = 
+}}'''
+	%
+	(w[2],w[1],w[4],cx)
+	)
 f.close()
 
 '''
