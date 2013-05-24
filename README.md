@@ -16,4 +16,5 @@ Progress
 * Stede Broec (23 February 2013, bunch of PDFs)
 * Baarle-Nassau (23 February 2013, XLS)
 * Apeldoorn (24 February 2013, ugly PDF)
+* Oegstgeest (24 May 2013, with the script by @VDK)
 * …

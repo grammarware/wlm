@@ -1,0 +1,3 @@
+[submodule "WLM-table-gen"]
+	path = WLM-table-gen
+	url = git://github.com/VDK/WLM-table-gen.git
